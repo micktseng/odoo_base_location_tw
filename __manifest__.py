@@ -1,30 +1,17 @@
 # -*- coding: utf-8 -*-
-# Copyright 2016 Nicolas Bessi, Camptocamp SA
 # License AGPL-3.0 or later (http://www.gnu.org/licenses/agpl).
 
 {
-    'name': 'Location management (aka Better ZIP)',
+    'name': 'Location management Taiwan Data',
     'version': '10.0.1.0.0',
     'depends': [
-        'base',
+        'base_location',
     ],
-    'author': "Camptocamp,"
-              "ACYSOS S.L.,"
-              "Alejandro Santana,"
-              "Tecnativa,"
-              "Odoo Community Association (OCA)",
+    'author': "Mick Tseng",
     'license': "AGPL-3",
-    'summary': '''Enhanced zip/npa management system''',
-    'website': 'http://www.camptocamp.com',
-    'data': ['views/better_zip_view.xml',
-             'views/state_view.xml',
-             'views/res_country_view.xml',
-             'views/company_view.xml',
-             'views/partner_view.xml',
-             'security/ir.model.access.csv'],
-    'demo': [
-        'demo/better_zip.xml',
-    ],
+    'data': [
+        'data/res_country_state_data.xml',
+        'data/res_better_zip.xml'],
     'installable': True,
     'auto_install': False,
 }

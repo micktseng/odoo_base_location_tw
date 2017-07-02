@@ -1,0 +1,2560 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<odoo>
+    <data>
+        <record id="res_better_zip_tw_0" model="res.better.zip">
+            <field name="code">100</field>
+            <field name="name">100</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_TPC"/>
+            <field name="city">中正區</field>
+        </record>
+        <record id="res_better_zip_tw_1" model="res.better.zip">
+            <field name="code">103</field>
+            <field name="name">103</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_TPC"/>
+            <field name="city">大同區</field>
+        </record>
+        <record id="res_better_zip_tw_2" model="res.better.zip">
+            <field name="code">104</field>
+            <field name="name">104</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_TPC"/>
+            <field name="city">中山區</field>
+        </record>
+        <record id="res_better_zip_tw_3" model="res.better.zip">
+            <field name="code">105</field>
+            <field name="name">105</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_TPC"/>
+            <field name="city">松山區</field>
+        </record>
+        <record id="res_better_zip_tw_4" model="res.better.zip">
+            <field name="code">106</field>
+            <field name="name">106</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_TPC"/>
+            <field name="city">大安區</field>
+        </record>
+        <record id="res_better_zip_tw_5" model="res.better.zip">
+            <field name="code">108</field>
+            <field name="name">108</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_TPC"/>
+            <field name="city">萬華區</field>
+        </record>
+        <record id="res_better_zip_tw_6" model="res.better.zip">
+            <field name="code">110</field>
+            <field name="name">110</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_TPC"/>
+            <field name="city">信義區</field>
+        </record>
+        <record id="res_better_zip_tw_7" model="res.better.zip">
+            <field name="code">111</field>
+            <field name="name">111</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_TPC"/>
+            <field name="city">士林區</field>
+        </record>
+        <record id="res_better_zip_tw_8" model="res.better.zip">
+            <field name="code">112</field>
+            <field name="name">112</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_TPC"/>
+            <field name="city">北投區</field>
+        </record>
+        <record id="res_better_zip_tw_9" model="res.better.zip">
+            <field name="code">114</field>
+            <field name="name">114</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_TPC"/>
+            <field name="city">內湖區</field>
+        </record>
+        <record id="res_better_zip_tw_10" model="res.better.zip">
+            <field name="code">115</field>
+            <field name="name">115</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_TPC"/>
+            <field name="city">南港區</field>
+        </record>
+        <record id="res_better_zip_tw_11" model="res.better.zip">
+            <field name="code">116</field>
+            <field name="name">116</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_TPC"/>
+            <field name="city">文山區</field>
+        </record>
+        <record id="res_better_zip_tw_12" model="res.better.zip">
+            <field name="code">200</field>
+            <field name="name">200</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_KLC"/>
+            <field name="city">仁愛區</field>
+        </record>
+        <record id="res_better_zip_tw_13" model="res.better.zip">
+            <field name="code">201</field>
+            <field name="name">201</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_KLC"/>
+            <field name="city">信義區</field>
+        </record>
+        <record id="res_better_zip_tw_14" model="res.better.zip">
+            <field name="code">202</field>
+            <field name="name">202</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_KLC"/>
+            <field name="city">中正區</field>
+        </record>
+        <record id="res_better_zip_tw_15" model="res.better.zip">
+            <field name="code">203</field>
+            <field name="name">203</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_KLC"/>
+            <field name="city">中山區</field>
+        </record>
+        <record id="res_better_zip_tw_16" model="res.better.zip">
+            <field name="code">204</field>
+            <field name="name">204</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_KLC"/>
+            <field name="city">安樂區</field>
+        </record>
+        <record id="res_better_zip_tw_17" model="res.better.zip">
+            <field name="code">205</field>
+            <field name="name">205</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_KLC"/>
+            <field name="city">暖暖區</field>
+        </record>
+        <record id="res_better_zip_tw_18" model="res.better.zip">
+            <field name="code">206</field>
+            <field name="name">206</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_KLC"/>
+            <field name="city">七堵區</field>
+        </record>
+        <record id="res_better_zip_tw_19" model="res.better.zip">
+            <field name="code">207</field>
+            <field name="name">207</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_NTC"/>
+            <field name="city">萬里區</field>
+        </record>
+        <record id="res_better_zip_tw_20" model="res.better.zip">
+            <field name="code">208</field>
+            <field name="name">208</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_NTC"/>
+            <field name="city">金山區</field>
+        </record>
+        <record id="res_better_zip_tw_21" model="res.better.zip">
+            <field name="code">209</field>
+            <field name="name">209</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_LJS"/>
+            <field name="city">南竿鄉</field>
+        </record>
+        <record id="res_better_zip_tw_22" model="res.better.zip">
+            <field name="code">210</field>
+            <field name="name">210</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_LJS"/>
+            <field name="city">北竿鄉</field>
+        </record>
+        <record id="res_better_zip_tw_23" model="res.better.zip">
+            <field name="code">211</field>
+            <field name="name">211</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_LJS"/>
+            <field name="city">莒光鄉</field>
+        </record>
+        <record id="res_better_zip_tw_24" model="res.better.zip">
+            <field name="code">212</field>
+            <field name="name">212</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_LJS"/>
+            <field name="city">東引鄉</field>
+        </record>
+        <record id="res_better_zip_tw_25" model="res.better.zip">
+            <field name="code">220</field>
+            <field name="name">220</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_NTC"/>
+            <field name="city">板橋區</field>
+        </record>
+        <record id="res_better_zip_tw_26" model="res.better.zip">
+            <field name="code">221</field>
+            <field name="name">221</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_NTC"/>
+            <field name="city">汐止區</field>
+        </record>
+        <record id="res_better_zip_tw_27" model="res.better.zip">
+            <field name="code">222</field>
+            <field name="name">222</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_NTC"/>
+            <field name="city">深坑區</field>
+        </record>
+        <record id="res_better_zip_tw_28" model="res.better.zip">
+            <field name="code">223</field>
+            <field name="name">223</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_NTC"/>
+            <field name="city">石碇區</field>
+        </record>
+        <record id="res_better_zip_tw_29" model="res.better.zip">
+            <field name="code">224</field>
+            <field name="name">224</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_NTC"/>
+            <field name="city">瑞芳區</field>
+        </record>
+        <record id="res_better_zip_tw_30" model="res.better.zip">
+            <field name="code">226</field>
+            <field name="name">226</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_NTC"/>
+            <field name="city">平溪區</field>
+        </record>
+        <record id="res_better_zip_tw_31" model="res.better.zip">
+            <field name="code">227</field>
+            <field name="name">227</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_NTC"/>
+            <field name="city">雙溪區</field>
+        </record>
+        <record id="res_better_zip_tw_32" model="res.better.zip">
+            <field name="code">228</field>
+            <field name="name">228</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_NTC"/>
+            <field name="city">貢寮區</field>
+        </record>
+        <record id="res_better_zip_tw_33" model="res.better.zip">
+            <field name="code">231</field>
+            <field name="name">231</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_NTC"/>
+            <field name="city">新店區</field>
+        </record>
+        <record id="res_better_zip_tw_34" model="res.better.zip">
+            <field name="code">232</field>
+            <field name="name">232</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_NTC"/>
+            <field name="city">坪林區</field>
+        </record>
+        <record id="res_better_zip_tw_35" model="res.better.zip">
+            <field name="code">233</field>
+            <field name="name">233</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_NTC"/>
+            <field name="city">烏來區</field>
+        </record>
+        <record id="res_better_zip_tw_36" model="res.better.zip">
+            <field name="code">234</field>
+            <field name="name">234</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_NTC"/>
+            <field name="city">永和區</field>
+        </record>
+        <record id="res_better_zip_tw_37" model="res.better.zip">
+            <field name="code">235</field>
+            <field name="name">235</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_NTC"/>
+            <field name="city">中和區</field>
+        </record>
+        <record id="res_better_zip_tw_38" model="res.better.zip">
+            <field name="code">236</field>
+            <field name="name">236</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_NTC"/>
+            <field name="city">土城區</field>
+        </record>
+        <record id="res_better_zip_tw_39" model="res.better.zip">
+            <field name="code">237</field>
+            <field name="name">237</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_NTC"/>
+            <field name="city">三峽區</field>
+        </record>
+        <record id="res_better_zip_tw_40" model="res.better.zip">
+            <field name="code">238</field>
+            <field name="name">238</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_NTC"/>
+            <field name="city">樹林區</field>
+        </record>
+        <record id="res_better_zip_tw_41" model="res.better.zip">
+            <field name="code">239</field>
+            <field name="name">239</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_NTC"/>
+            <field name="city">鶯歌區</field>
+        </record>
+        <record id="res_better_zip_tw_42" model="res.better.zip">
+            <field name="code">241</field>
+            <field name="name">241</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_NTC"/>
+            <field name="city">三重區</field>
+        </record>
+        <record id="res_better_zip_tw_43" model="res.better.zip">
+            <field name="code">242</field>
+            <field name="name">242</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_NTC"/>
+            <field name="city">新莊區</field>
+        </record>
+        <record id="res_better_zip_tw_44" model="res.better.zip">
+            <field name="code">243</field>
+            <field name="name">243</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_NTC"/>
+            <field name="city">泰山區</field>
+        </record>
+        <record id="res_better_zip_tw_45" model="res.better.zip">
+            <field name="code">244</field>
+            <field name="name">244</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_NTC"/>
+            <field name="city">林口區</field>
+        </record>
+        <record id="res_better_zip_tw_46" model="res.better.zip">
+            <field name="code">247</field>
+            <field name="name">247</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_NTC"/>
+            <field name="city">蘆洲區</field>
+        </record>
+        <record id="res_better_zip_tw_47" model="res.better.zip">
+            <field name="code">248</field>
+            <field name="name">248</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_NTC"/>
+            <field name="city">五股區</field>
+        </record>
+        <record id="res_better_zip_tw_48" model="res.better.zip">
+            <field name="code">249</field>
+            <field name="name">249</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_NTC"/>
+            <field name="city">八里區</field>
+        </record>
+        <record id="res_better_zip_tw_49" model="res.better.zip">
+            <field name="code">251</field>
+            <field name="name">251</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_NTC"/>
+            <field name="city">淡水區</field>
+        </record>
+        <record id="res_better_zip_tw_50" model="res.better.zip">
+            <field name="code">252</field>
+            <field name="name">252</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_NTC"/>
+            <field name="city">三芝區</field>
+        </record>
+        <record id="res_better_zip_tw_51" model="res.better.zip">
+            <field name="code">253</field>
+            <field name="name">253</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_NTC"/>
+            <field name="city">石門區</field>
+        </record>
+        <record id="res_better_zip_tw_52" model="res.better.zip">
+            <field name="code">260</field>
+            <field name="name">260</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_YLS"/>
+            <field name="city">壯圍鄉</field>
+        </record>
+        <record id="res_better_zip_tw_53" model="res.better.zip">
+            <field name="code">261</field>
+            <field name="name">261</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_YLS"/>
+            <field name="city">頭城鎮</field>
+        </record>
+        <record id="res_better_zip_tw_54" model="res.better.zip">
+            <field name="code">262</field>
+            <field name="name">262</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_YLS"/>
+            <field name="city">礁溪鄉</field>
+        </record>
+        <record id="res_better_zip_tw_55" model="res.better.zip">
+            <field name="code">264</field>
+            <field name="name">264</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_YLS"/>
+            <field name="city">員山鄉</field>
+        </record>
+        <record id="res_better_zip_tw_56" model="res.better.zip">
+            <field name="code">265</field>
+            <field name="name">265</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_YLS"/>
+            <field name="city">羅東鎮</field>
+        </record>
+        <record id="res_better_zip_tw_57" model="res.better.zip">
+            <field name="code">266</field>
+            <field name="name">266</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_YLS"/>
+            <field name="city">三星鄉</field>
+        </record>
+        <record id="res_better_zip_tw_58" model="res.better.zip">
+            <field name="code">267</field>
+            <field name="name">267</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_YLS"/>
+            <field name="city">大同鄉</field>
+        </record>
+        <record id="res_better_zip_tw_59" model="res.better.zip">
+            <field name="code">268</field>
+            <field name="name">268</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_YLS"/>
+            <field name="city">五結鄉</field>
+        </record>
+        <record id="res_better_zip_tw_60" model="res.better.zip">
+            <field name="code">269</field>
+            <field name="name">269</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_YLS"/>
+            <field name="city">冬山鄉</field>
+        </record>
+        <record id="res_better_zip_tw_61" model="res.better.zip">
+            <field name="code">270</field>
+            <field name="name">270</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_YLS"/>
+            <field name="city">蘇澳鎮</field>
+        </record>
+        <record id="res_better_zip_tw_62" model="res.better.zip">
+            <field name="code">272</field>
+            <field name="name">272</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_YLS"/>
+            <field name="city">南澳鄉</field>
+        </record>
+        <record id="res_better_zip_tw_63" model="res.better.zip">
+            <field name="code">290</field>
+            <field name="name">290</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_YLS"/>
+            <field name="city">釣魚臺</field>
+        </record>
+        <record id="res_better_zip_tw_64" model="res.better.zip">
+            <field name="code">300</field>
+            <field name="name">300</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_HCS"/>
+            <field name="city">寶山鄉</field>
+        </record>
+        <record id="res_better_zip_tw_65" model="res.better.zip">
+            <field name="code">302</field>
+            <field name="name">302</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_HCS"/>
+            <field name="city">竹北市</field>
+        </record>
+        <record id="res_better_zip_tw_66" model="res.better.zip">
+            <field name="code">303</field>
+            <field name="name">303</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_HCS"/>
+            <field name="city">湖口鄉</field>
+        </record>
+        <record id="res_better_zip_tw_67" model="res.better.zip">
+            <field name="code">304</field>
+            <field name="name">304</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_HCS"/>
+            <field name="city">新豐鄉</field>
+        </record>
+        <record id="res_better_zip_tw_68" model="res.better.zip">
+            <field name="code">305</field>
+            <field name="name">305</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_HCS"/>
+            <field name="city">新埔鎮</field>
+        </record>
+        <record id="res_better_zip_tw_69" model="res.better.zip">
+            <field name="code">306</field>
+            <field name="name">306</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_HCS"/>
+            <field name="city">關西鎮</field>
+        </record>
+        <record id="res_better_zip_tw_70" model="res.better.zip">
+            <field name="code">307</field>
+            <field name="name">307</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_HCS"/>
+            <field name="city">芎林鄉</field>
+        </record>
+        <record id="res_better_zip_tw_71" model="res.better.zip">
+            <field name="code">310</field>
+            <field name="name">310</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_HCS"/>
+            <field name="city">竹東鎮</field>
+        </record>
+        <record id="res_better_zip_tw_72" model="res.better.zip">
+            <field name="code">311</field>
+            <field name="name">311</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_HCS"/>
+            <field name="city">五峰鄉</field>
+        </record>
+        <record id="res_better_zip_tw_73" model="res.better.zip">
+            <field name="code">312</field>
+            <field name="name">312</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_HCS"/>
+            <field name="city">橫山鄉</field>
+        </record>
+        <record id="res_better_zip_tw_74" model="res.better.zip">
+            <field name="code">313</field>
+            <field name="name">313</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_HCS"/>
+            <field name="city">尖石鄉</field>
+        </record>
+        <record id="res_better_zip_tw_75" model="res.better.zip">
+            <field name="code">314</field>
+            <field name="name">314</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_HCS"/>
+            <field name="city">北埔鄉</field>
+        </record>
+        <record id="res_better_zip_tw_76" model="res.better.zip">
+            <field name="code">315</field>
+            <field name="name">315</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_HCS"/>
+            <field name="city">峨眉鄉</field>
+        </record>
+        <record id="res_better_zip_tw_77" model="res.better.zip">
+            <field name="code">320</field>
+            <field name="name">320</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_HCS"/>
+            <field name="city">中壢區</field>
+        </record>
+        <record id="res_better_zip_tw_78" model="res.better.zip">
+            <field name="code">324</field>
+            <field name="name">324</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_TYC"/>
+            <field name="city">平鎮區</field>
+        </record>
+        <record id="res_better_zip_tw_79" model="res.better.zip">
+            <field name="code">325</field>
+            <field name="name">325</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_TYC"/>
+            <field name="city">龍潭區</field>
+        </record>
+        <record id="res_better_zip_tw_80" model="res.better.zip">
+            <field name="code">326</field>
+            <field name="name">326</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_TYC"/>
+            <field name="city">楊梅區</field>
+        </record>
+        <record id="res_better_zip_tw_81" model="res.better.zip">
+            <field name="code">327</field>
+            <field name="name">327</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_TYC"/>
+            <field name="city">新屋區</field>
+        </record>
+        <record id="res_better_zip_tw_82" model="res.better.zip">
+            <field name="code">328</field>
+            <field name="name">328</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_TYC"/>
+            <field name="city">觀音區</field>
+        </record>
+        <record id="res_better_zip_tw_83" model="res.better.zip">
+            <field name="code">330</field>
+            <field name="name">330</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_TYC"/>
+            <field name="city">桃園區</field>
+        </record>
+        <record id="res_better_zip_tw_84" model="res.better.zip">
+            <field name="code">333</field>
+            <field name="name">333</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_TYC"/>
+            <field name="city">龜山區</field>
+        </record>
+        <record id="res_better_zip_tw_85" model="res.better.zip">
+            <field name="code">334</field>
+            <field name="name">334</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_TYC"/>
+            <field name="city">八德區</field>
+        </record>
+        <record id="res_better_zip_tw_86" model="res.better.zip">
+            <field name="code">335</field>
+            <field name="name">335</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_TYC"/>
+            <field name="city">大溪區</field>
+        </record>
+        <record id="res_better_zip_tw_87" model="res.better.zip">
+            <field name="code">336</field>
+            <field name="name">336</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_TYC"/>
+            <field name="city">復興區</field>
+        </record>
+        <record id="res_better_zip_tw_88" model="res.better.zip">
+            <field name="code">337</field>
+            <field name="name">337</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_TYC"/>
+            <field name="city">大園區</field>
+        </record>
+        <record id="res_better_zip_tw_89" model="res.better.zip">
+            <field name="code">338</field>
+            <field name="name">338</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_TYC"/>
+            <field name="city">蘆竹區</field>
+        </record>
+        <record id="res_better_zip_tw_90" model="res.better.zip">
+            <field name="code">350</field>
+            <field name="name">350</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_MLS"/>
+            <field name="city">竹南鎮</field>
+        </record>
+        <record id="res_better_zip_tw_91" model="res.better.zip">
+            <field name="code">351</field>
+            <field name="name">351</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_MLS"/>
+            <field name="city">頭份市</field>
+        </record>
+        <record id="res_better_zip_tw_92" model="res.better.zip">
+            <field name="code">352</field>
+            <field name="name">352</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_MLS"/>
+            <field name="city">三灣鄉</field>
+        </record>
+        <record id="res_better_zip_tw_93" model="res.better.zip">
+            <field name="code">353</field>
+            <field name="name">353</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_MLS"/>
+            <field name="city">南庄鄉</field>
+        </record>
+        <record id="res_better_zip_tw_94" model="res.better.zip">
+            <field name="code">354</field>
+            <field name="name">354</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_MLS"/>
+            <field name="city">獅潭鄉</field>
+        </record>
+        <record id="res_better_zip_tw_95" model="res.better.zip">
+            <field name="code">356</field>
+            <field name="name">356</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_MLS"/>
+            <field name="city">後龍鎮</field>
+        </record>
+        <record id="res_better_zip_tw_96" model="res.better.zip">
+            <field name="code">357</field>
+            <field name="name">357</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_MLS"/>
+            <field name="city">通霄鎮</field>
+        </record>
+        <record id="res_better_zip_tw_97" model="res.better.zip">
+            <field name="code">358</field>
+            <field name="name">358</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_MLS"/>
+            <field name="city">苑裡鎮</field>
+        </record>
+        <record id="res_better_zip_tw_98" model="res.better.zip">
+            <field name="code">360</field>
+            <field name="name">360</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_MLS"/>
+            <field name="city">苗栗市</field>
+        </record>
+        <record id="res_better_zip_tw_99" model="res.better.zip">
+            <field name="code">361</field>
+            <field name="name">361</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_MLS"/>
+            <field name="city">造橋鄉</field>
+        </record>
+        <record id="res_better_zip_tw_100" model="res.better.zip">
+            <field name="code">362</field>
+            <field name="name">362</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_MLS"/>
+            <field name="city">頭屋鄉</field>
+        </record>
+        <record id="res_better_zip_tw_101" model="res.better.zip">
+            <field name="code">363</field>
+            <field name="name">363</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_MLS"/>
+            <field name="city">公館鄉</field>
+        </record>
+        <record id="res_better_zip_tw_102" model="res.better.zip">
+            <field name="code">364</field>
+            <field name="name">364</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_MLS"/>
+            <field name="city">大湖鄉</field>
+        </record>
+        <record id="res_better_zip_tw_103" model="res.better.zip">
+            <field name="code">365</field>
+            <field name="name">365</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_MLS"/>
+            <field name="city">泰安鄉</field>
+        </record>
+        <record id="res_better_zip_tw_104" model="res.better.zip">
+            <field name="code">366</field>
+            <field name="name">366</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_MLS"/>
+            <field name="city">銅鑼鄉</field>
+        </record>
+        <record id="res_better_zip_tw_105" model="res.better.zip">
+            <field name="code">367</field>
+            <field name="name">367</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_MLS"/>
+            <field name="city">三義鄉</field>
+        </record>
+        <record id="res_better_zip_tw_106" model="res.better.zip">
+            <field name="code">368</field>
+            <field name="name">368</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_MLS"/>
+            <field name="city">西湖鄉</field>
+        </record>
+        <record id="res_better_zip_tw_107" model="res.better.zip">
+            <field name="code">369</field>
+            <field name="name">369</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_MLS"/>
+            <field name="city">卓蘭鎮</field>
+        </record>
+        <record id="res_better_zip_tw_108" model="res.better.zip">
+            <field name="code">400</field>
+            <field name="name">400</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_TCC"/>
+            <field name="city">中區</field>
+        </record>
+        <record id="res_better_zip_tw_109" model="res.better.zip">
+            <field name="code">401</field>
+            <field name="name">401</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_TCC"/>
+            <field name="city">東區</field>
+        </record>
+        <record id="res_better_zip_tw_110" model="res.better.zip">
+            <field name="code">402</field>
+            <field name="name">402</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_TCC"/>
+            <field name="city">南區</field>
+        </record>
+        <record id="res_better_zip_tw_111" model="res.better.zip">
+            <field name="code">403</field>
+            <field name="name">403</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_TCC"/>
+            <field name="city">西區</field>
+        </record>
+        <record id="res_better_zip_tw_112" model="res.better.zip">
+            <field name="code">404</field>
+            <field name="name">404</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_TCC"/>
+            <field name="city">北區</field>
+        </record>
+        <record id="res_better_zip_tw_113" model="res.better.zip">
+            <field name="code">406</field>
+            <field name="name">406</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_TCC"/>
+            <field name="city">北屯區</field>
+        </record>
+        <record id="res_better_zip_tw_114" model="res.better.zip">
+            <field name="code">407</field>
+            <field name="name">407</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_TCC"/>
+            <field name="city">西屯區</field>
+        </record>
+        <record id="res_better_zip_tw_115" model="res.better.zip">
+            <field name="code">408</field>
+            <field name="name">408</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_TCC"/>
+            <field name="city">南屯區</field>
+        </record>
+        <record id="res_better_zip_tw_116" model="res.better.zip">
+            <field name="code">411</field>
+            <field name="name">411</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_TCC"/>
+            <field name="city">太平區</field>
+        </record>
+        <record id="res_better_zip_tw_117" model="res.better.zip">
+            <field name="code">412</field>
+            <field name="name">412</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_TCC"/>
+            <field name="city">大里區</field>
+        </record>
+        <record id="res_better_zip_tw_118" model="res.better.zip">
+            <field name="code">413</field>
+            <field name="name">413</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_TCC"/>
+            <field name="city">霧峰區</field>
+        </record>
+        <record id="res_better_zip_tw_119" model="res.better.zip">
+            <field name="code">414</field>
+            <field name="name">414</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_TCC"/>
+            <field name="city">烏日區</field>
+        </record>
+        <record id="res_better_zip_tw_120" model="res.better.zip">
+            <field name="code">420</field>
+            <field name="name">420</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_TCC"/>
+            <field name="city">豐原區</field>
+        </record>
+        <record id="res_better_zip_tw_121" model="res.better.zip">
+            <field name="code">421</field>
+            <field name="name">421</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_TCC"/>
+            <field name="city">后里區</field>
+        </record>
+        <record id="res_better_zip_tw_122" model="res.better.zip">
+            <field name="code">422</field>
+            <field name="name">422</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_TCC"/>
+            <field name="city">石岡區</field>
+        </record>
+        <record id="res_better_zip_tw_123" model="res.better.zip">
+            <field name="code">423</field>
+            <field name="name">423</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_TCC"/>
+            <field name="city">東勢區</field>
+        </record>
+        <record id="res_better_zip_tw_124" model="res.better.zip">
+            <field name="code">424</field>
+            <field name="name">424</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_TCC"/>
+            <field name="city">和平區</field>
+        </record>
+        <record id="res_better_zip_tw_125" model="res.better.zip">
+            <field name="code">426</field>
+            <field name="name">426</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_TCC"/>
+            <field name="city">新社區</field>
+        </record>
+        <record id="res_better_zip_tw_126" model="res.better.zip">
+            <field name="code">427</field>
+            <field name="name">427</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_TCC"/>
+            <field name="city">潭子區</field>
+        </record>
+        <record id="res_better_zip_tw_127" model="res.better.zip">
+            <field name="code">428</field>
+            <field name="name">428</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_TCC"/>
+            <field name="city">大雅區</field>
+        </record>
+        <record id="res_better_zip_tw_128" model="res.better.zip">
+            <field name="code">429</field>
+            <field name="name">429</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_TCC"/>
+            <field name="city">神岡區</field>
+        </record>
+        <record id="res_better_zip_tw_129" model="res.better.zip">
+            <field name="code">432</field>
+            <field name="name">432</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_TCC"/>
+            <field name="city">大肚區</field>
+        </record>
+        <record id="res_better_zip_tw_130" model="res.better.zip">
+            <field name="code">433</field>
+            <field name="name">433</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_TCC"/>
+            <field name="city">沙鹿區</field>
+        </record>
+        <record id="res_better_zip_tw_131" model="res.better.zip">
+            <field name="code">434</field>
+            <field name="name">434</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_TCC"/>
+            <field name="city">龍井區</field>
+        </record>
+        <record id="res_better_zip_tw_132" model="res.better.zip">
+            <field name="code">435</field>
+            <field name="name">435</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_TCC"/>
+            <field name="city">梧棲區</field>
+        </record>
+        <record id="res_better_zip_tw_133" model="res.better.zip">
+            <field name="code">436</field>
+            <field name="name">436</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_TCC"/>
+            <field name="city">清水區</field>
+        </record>
+        <record id="res_better_zip_tw_134" model="res.better.zip">
+            <field name="code">437</field>
+            <field name="name">437</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_TCC"/>
+            <field name="city">大甲區</field>
+        </record>
+        <record id="res_better_zip_tw_135" model="res.better.zip">
+            <field name="code">438</field>
+            <field name="name">438</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_TCC"/>
+            <field name="city">外埔區</field>
+        </record>
+        <record id="res_better_zip_tw_136" model="res.better.zip">
+            <field name="code">439</field>
+            <field name="name">439</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_TCC"/>
+            <field name="city">大安區</field>
+        </record>
+        <record id="res_better_zip_tw_137" model="res.better.zip">
+            <field name="code">500</field>
+            <field name="name">500</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_CHS"/>
+            <field name="city">彰化市</field>
+        </record>
+        <record id="res_better_zip_tw_138" model="res.better.zip">
+            <field name="code">502</field>
+            <field name="name">502</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_CHS"/>
+            <field name="city">芬園鄉</field>
+        </record>
+        <record id="res_better_zip_tw_139" model="res.better.zip">
+            <field name="code">503</field>
+            <field name="name">503</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_CHS"/>
+            <field name="city">花壇鄉</field>
+        </record>
+        <record id="res_better_zip_tw_140" model="res.better.zip">
+            <field name="code">504</field>
+            <field name="name">504</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_CHS"/>
+            <field name="city">秀水鄉</field>
+        </record>
+        <record id="res_better_zip_tw_141" model="res.better.zip">
+            <field name="code">505</field>
+            <field name="name">505</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_CHS"/>
+            <field name="city">鹿港鎮</field>
+        </record>
+        <record id="res_better_zip_tw_142" model="res.better.zip">
+            <field name="code">506</field>
+            <field name="name">506</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_CHS"/>
+            <field name="city">福興鄉</field>
+        </record>
+        <record id="res_better_zip_tw_143" model="res.better.zip">
+            <field name="code">507</field>
+            <field name="name">507</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_CHS"/>
+            <field name="city">線西鄉</field>
+        </record>
+        <record id="res_better_zip_tw_144" model="res.better.zip">
+            <field name="code">508</field>
+            <field name="name">508</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_CHS"/>
+            <field name="city">和美鎮</field>
+        </record>
+        <record id="res_better_zip_tw_145" model="res.better.zip">
+            <field name="code">509</field>
+            <field name="name">509</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_CHS"/>
+            <field name="city">伸港鄉</field>
+        </record>
+        <record id="res_better_zip_tw_146" model="res.better.zip">
+            <field name="code">510</field>
+            <field name="name">510</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_CHS"/>
+            <field name="city">員林市</field>
+        </record>
+        <record id="res_better_zip_tw_147" model="res.better.zip">
+            <field name="code">511</field>
+            <field name="name">511</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_CHS"/>
+            <field name="city">社頭鄉</field>
+        </record>
+        <record id="res_better_zip_tw_148" model="res.better.zip">
+            <field name="code">512</field>
+            <field name="name">512</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_CHS"/>
+            <field name="city">永靖鄉</field>
+        </record>
+        <record id="res_better_zip_tw_149" model="res.better.zip">
+            <field name="code">513</field>
+            <field name="name">513</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_CHS"/>
+            <field name="city">埔心鄉</field>
+        </record>
+        <record id="res_better_zip_tw_150" model="res.better.zip">
+            <field name="code">514</field>
+            <field name="name">514</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_CHS"/>
+            <field name="city">溪湖鎮</field>
+        </record>
+        <record id="res_better_zip_tw_151" model="res.better.zip">
+            <field name="code">515</field>
+            <field name="name">515</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_CHS"/>
+            <field name="city">大村鄉</field>
+        </record>
+        <record id="res_better_zip_tw_152" model="res.better.zip">
+            <field name="code">516</field>
+            <field name="name">516</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_CHS"/>
+            <field name="city">埔鹽鄉</field>
+        </record>
+        <record id="res_better_zip_tw_153" model="res.better.zip">
+            <field name="code">520</field>
+            <field name="name">520</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_CHS"/>
+            <field name="city">田中鎮</field>
+        </record>
+        <record id="res_better_zip_tw_154" model="res.better.zip">
+            <field name="code">521</field>
+            <field name="name">521</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_CHS"/>
+            <field name="city">北斗鎮</field>
+        </record>
+        <record id="res_better_zip_tw_155" model="res.better.zip">
+            <field name="code">522</field>
+            <field name="name">522</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_CHS"/>
+            <field name="city">田尾鄉</field>
+        </record>
+        <record id="res_better_zip_tw_156" model="res.better.zip">
+            <field name="code">523</field>
+            <field name="name">523</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_CHS"/>
+            <field name="city">埤頭鄉</field>
+        </record>
+        <record id="res_better_zip_tw_157" model="res.better.zip">
+            <field name="code">524</field>
+            <field name="name">524</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_CHS"/>
+            <field name="city">溪州鄉</field>
+        </record>
+        <record id="res_better_zip_tw_158" model="res.better.zip">
+            <field name="code">525</field>
+            <field name="name">525</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_CHS"/>
+            <field name="city">竹塘鄉</field>
+        </record>
+        <record id="res_better_zip_tw_159" model="res.better.zip">
+            <field name="code">526</field>
+            <field name="name">526</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_CHS"/>
+            <field name="city">二林鎮</field>
+        </record>
+        <record id="res_better_zip_tw_160" model="res.better.zip">
+            <field name="code">527</field>
+            <field name="name">527</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_CHS"/>
+            <field name="city">大城鄉</field>
+        </record>
+        <record id="res_better_zip_tw_161" model="res.better.zip">
+            <field name="code">528</field>
+            <field name="name">528</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_CHS"/>
+            <field name="city">芳苑鄉</field>
+        </record>
+        <record id="res_better_zip_tw_162" model="res.better.zip">
+            <field name="code">530</field>
+            <field name="name">530</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_CHS"/>
+            <field name="city">二水鄉</field>
+        </record>
+        <record id="res_better_zip_tw_163" model="res.better.zip">
+            <field name="code">540</field>
+            <field name="name">540</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_NTS"/>
+            <field name="city">南投市</field>
+        </record>
+        <record id="res_better_zip_tw_164" model="res.better.zip">
+            <field name="code">541</field>
+            <field name="name">541</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_NTS"/>
+            <field name="city">中寮鄉</field>
+        </record>
+        <record id="res_better_zip_tw_165" model="res.better.zip">
+            <field name="code">542</field>
+            <field name="name">542</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_NTS"/>
+            <field name="city">草屯鎮</field>
+        </record>
+        <record id="res_better_zip_tw_166" model="res.better.zip">
+            <field name="code">544</field>
+            <field name="name">544</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_NTS"/>
+            <field name="city">國姓鄉</field>
+        </record>
+        <record id="res_better_zip_tw_167" model="res.better.zip">
+            <field name="code">545</field>
+            <field name="name">545</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_NTS"/>
+            <field name="city">埔里鎮</field>
+        </record>
+        <record id="res_better_zip_tw_168" model="res.better.zip">
+            <field name="code">546</field>
+            <field name="name">546</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_NTS"/>
+            <field name="city">仁愛鄉</field>
+        </record>
+        <record id="res_better_zip_tw_169" model="res.better.zip">
+            <field name="code">551</field>
+            <field name="name">551</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_NTS"/>
+            <field name="city">名間鄉</field>
+        </record>
+        <record id="res_better_zip_tw_170" model="res.better.zip">
+            <field name="code">552</field>
+            <field name="name">552</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_NTS"/>
+            <field name="city">集集鎮</field>
+        </record>
+        <record id="res_better_zip_tw_171" model="res.better.zip">
+            <field name="code">553</field>
+            <field name="name">553</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_NTS"/>
+            <field name="city">水里鄉</field>
+        </record>
+        <record id="res_better_zip_tw_172" model="res.better.zip">
+            <field name="code">555</field>
+            <field name="name">555</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_NTS"/>
+            <field name="city">魚池鄉</field>
+        </record>
+        <record id="res_better_zip_tw_173" model="res.better.zip">
+            <field name="code">556</field>
+            <field name="name">556</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_NTS"/>
+            <field name="city">信義鄉</field>
+        </record>
+        <record id="res_better_zip_tw_174" model="res.better.zip">
+            <field name="code">557</field>
+            <field name="name">557</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_NTS"/>
+            <field name="city">竹山鎮</field>
+        </record>
+        <record id="res_better_zip_tw_175" model="res.better.zip">
+            <field name="code">558</field>
+            <field name="name">558</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_NTS"/>
+            <field name="city">鹿谷鄉</field>
+        </record>
+        <record id="res_better_zip_tw_176" model="res.better.zip">
+            <field name="code">600</field>
+            <field name="name">600</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_JIC"/>
+            <field name="city">東區</field>
+        </record>
+        <record id="res_better_zip_tw_177" model="res.better.zip">
+            <field name="code">602</field>
+            <field name="name">602</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_JIS"/>
+            <field name="city">番路鄉</field>
+        </record>
+        <record id="res_better_zip_tw_178" model="res.better.zip">
+            <field name="code">603</field>
+            <field name="name">603</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_JIS"/>
+            <field name="city">梅山鄉</field>
+        </record>
+        <record id="res_better_zip_tw_179" model="res.better.zip">
+            <field name="code">604</field>
+            <field name="name">604</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_JIS"/>
+            <field name="city">竹崎鄉</field>
+        </record>
+        <record id="res_better_zip_tw_180" model="res.better.zip">
+            <field name="code">605</field>
+            <field name="name">605</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_JIS"/>
+            <field name="city">阿里山鄉</field>
+        </record>
+        <record id="res_better_zip_tw_181" model="res.better.zip">
+            <field name="code">606</field>
+            <field name="name">606</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_JIS"/>
+            <field name="city">中埔鄉</field>
+        </record>
+        <record id="res_better_zip_tw_182" model="res.better.zip">
+            <field name="code">607</field>
+            <field name="name">607</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_JIS"/>
+            <field name="city">大埔鄉</field>
+        </record>
+        <record id="res_better_zip_tw_183" model="res.better.zip">
+            <field name="code">608</field>
+            <field name="name">608</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_JIS"/>
+            <field name="city">水上鄉</field>
+        </record>
+        <record id="res_better_zip_tw_184" model="res.better.zip">
+            <field name="code">611</field>
+            <field name="name">611</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_JIS"/>
+            <field name="city">鹿草鄉</field>
+        </record>
+        <record id="res_better_zip_tw_185" model="res.better.zip">
+            <field name="code">612</field>
+            <field name="name">612</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_JIS"/>
+            <field name="city">太保市</field>
+        </record>
+        <record id="res_better_zip_tw_186" model="res.better.zip">
+            <field name="code">613</field>
+            <field name="name">613</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_JIS"/>
+            <field name="city">朴子市</field>
+        </record>
+        <record id="res_better_zip_tw_187" model="res.better.zip">
+            <field name="code">614</field>
+            <field name="name">614</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_JIS"/>
+            <field name="city">東石鄉</field>
+        </record>
+        <record id="res_better_zip_tw_188" model="res.better.zip">
+            <field name="code">615</field>
+            <field name="name">615</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_JIS"/>
+            <field name="city">六腳鄉</field>
+        </record>
+        <record id="res_better_zip_tw_189" model="res.better.zip">
+            <field name="code">616</field>
+            <field name="name">616</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_JIS"/>
+            <field name="city">新港鄉</field>
+        </record>
+        <record id="res_better_zip_tw_190" model="res.better.zip">
+            <field name="code">621</field>
+            <field name="name">621</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_JIS"/>
+            <field name="city">民雄鄉</field>
+        </record>
+        <record id="res_better_zip_tw_191" model="res.better.zip">
+            <field name="code">622</field>
+            <field name="name">622</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_JIS"/>
+            <field name="city">大林鎮</field>
+        </record>
+        <record id="res_better_zip_tw_192" model="res.better.zip">
+            <field name="code">623</field>
+            <field name="name">623</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_JIS"/>
+            <field name="city">溪口鄉</field>
+        </record>
+        <record id="res_better_zip_tw_193" model="res.better.zip">
+            <field name="code">624</field>
+            <field name="name">624</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_JIS"/>
+            <field name="city">義竹鄉</field>
+        </record>
+        <record id="res_better_zip_tw_194" model="res.better.zip">
+            <field name="code">625</field>
+            <field name="name">625</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_JIS"/>
+            <field name="city">布袋鎮</field>
+        </record>
+        <record id="res_better_zip_tw_195" model="res.better.zip">
+            <field name="code">630</field>
+            <field name="name">630</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_ULS"/>
+            <field name="city">斗南鎮</field>
+        </record>
+        <record id="res_better_zip_tw_196" model="res.better.zip">
+            <field name="code">631</field>
+            <field name="name">631</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_ULS"/>
+            <field name="city">大埤鄉</field>
+        </record>
+        <record id="res_better_zip_tw_197" model="res.better.zip">
+            <field name="code">632</field>
+            <field name="name">632</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_ULS"/>
+            <field name="city">虎尾鎮</field>
+        </record>
+        <record id="res_better_zip_tw_198" model="res.better.zip">
+            <field name="code">633</field>
+            <field name="name">633</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_ULS"/>
+            <field name="city">土庫鎮</field>
+        </record>
+        <record id="res_better_zip_tw_199" model="res.better.zip">
+            <field name="code">634</field>
+            <field name="name">634</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_ULS"/>
+            <field name="city">褒忠鄉</field>
+        </record>
+        <record id="res_better_zip_tw_200" model="res.better.zip">
+            <field name="code">635</field>
+            <field name="name">635</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_ULS"/>
+            <field name="city">東勢鄉</field>
+        </record>
+        <record id="res_better_zip_tw_201" model="res.better.zip">
+            <field name="code">636</field>
+            <field name="name">636</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_ULS"/>
+            <field name="city">臺西鄉</field>
+        </record>
+        <record id="res_better_zip_tw_202" model="res.better.zip">
+            <field name="code">637</field>
+            <field name="name">637</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_ULS"/>
+            <field name="city">崙背鄉</field>
+        </record>
+        <record id="res_better_zip_tw_203" model="res.better.zip">
+            <field name="code">638</field>
+            <field name="name">638</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_ULS"/>
+            <field name="city">麥寮鄉</field>
+        </record>
+        <record id="res_better_zip_tw_204" model="res.better.zip">
+            <field name="code">640</field>
+            <field name="name">640</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_ULS"/>
+            <field name="city">斗六市</field>
+        </record>
+        <record id="res_better_zip_tw_205" model="res.better.zip">
+            <field name="code">643</field>
+            <field name="name">643</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_ULS"/>
+            <field name="city">林內鄉</field>
+        </record>
+        <record id="res_better_zip_tw_206" model="res.better.zip">
+            <field name="code">646</field>
+            <field name="name">646</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_ULS"/>
+            <field name="city">古坑鄉</field>
+        </record>
+        <record id="res_better_zip_tw_207" model="res.better.zip">
+            <field name="code">647</field>
+            <field name="name">647</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_ULS"/>
+            <field name="city">莿桐鄉</field>
+        </record>
+        <record id="res_better_zip_tw_208" model="res.better.zip">
+            <field name="code">648</field>
+            <field name="name">648</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_ULS"/>
+            <field name="city">西螺鎮</field>
+        </record>
+        <record id="res_better_zip_tw_209" model="res.better.zip">
+            <field name="code">649</field>
+            <field name="name">649</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_ULS"/>
+            <field name="city">二崙鄉</field>
+        </record>
+        <record id="res_better_zip_tw_210" model="res.better.zip">
+            <field name="code">651</field>
+            <field name="name">651</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_ULS"/>
+            <field name="city">北港鎮</field>
+        </record>
+        <record id="res_better_zip_tw_211" model="res.better.zip">
+            <field name="code">652</field>
+            <field name="name">652</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_ULS"/>
+            <field name="city">水林鄉</field>
+        </record>
+        <record id="res_better_zip_tw_212" model="res.better.zip">
+            <field name="code">653</field>
+            <field name="name">653</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_ULS"/>
+            <field name="city">口湖鄉</field>
+        </record>
+        <record id="res_better_zip_tw_213" model="res.better.zip">
+            <field name="code">654</field>
+            <field name="name">654</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_ULS"/>
+            <field name="city">四湖鄉</field>
+        </record>
+        <record id="res_better_zip_tw_214" model="res.better.zip">
+            <field name="code">655</field>
+            <field name="name">655</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_ULS"/>
+            <field name="city">元長鄉</field>
+        </record>
+        <record id="res_better_zip_tw_215" model="res.better.zip">
+            <field name="code">700</field>
+            <field name="name">700</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_TNC"/>
+            <field name="city">中西區</field>
+        </record>
+        <record id="res_better_zip_tw_216" model="res.better.zip">
+            <field name="code">701</field>
+            <field name="name">701</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_TNC"/>
+            <field name="city">東區</field>
+        </record>
+        <record id="res_better_zip_tw_217" model="res.better.zip">
+            <field name="code">702</field>
+            <field name="name">702</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_TNC"/>
+            <field name="city">南區</field>
+        </record>
+        <record id="res_better_zip_tw_218" model="res.better.zip">
+            <field name="code">704</field>
+            <field name="name">704</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_TNC"/>
+            <field name="city">北區</field>
+        </record>
+        <record id="res_better_zip_tw_219" model="res.better.zip">
+            <field name="code">708</field>
+            <field name="name">708</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_TNC"/>
+            <field name="city">安平區</field>
+        </record>
+        <record id="res_better_zip_tw_220" model="res.better.zip">
+            <field name="code">709</field>
+            <field name="name">709</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_TNC"/>
+            <field name="city">安南區</field>
+        </record>
+        <record id="res_better_zip_tw_221" model="res.better.zip">
+            <field name="code">710</field>
+            <field name="name">710</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_TNC"/>
+            <field name="city">永康區</field>
+        </record>
+        <record id="res_better_zip_tw_222" model="res.better.zip">
+            <field name="code">711</field>
+            <field name="name">711</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_TNC"/>
+            <field name="city">歸仁區</field>
+        </record>
+        <record id="res_better_zip_tw_223" model="res.better.zip">
+            <field name="code">712</field>
+            <field name="name">712</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_TNC"/>
+            <field name="city">新化區</field>
+        </record>
+        <record id="res_better_zip_tw_224" model="res.better.zip">
+            <field name="code">713</field>
+            <field name="name">713</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_TNC"/>
+            <field name="city">左鎮區</field>
+        </record>
+        <record id="res_better_zip_tw_225" model="res.better.zip">
+            <field name="code">714</field>
+            <field name="name">714</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_TNC"/>
+            <field name="city">玉井區</field>
+        </record>
+        <record id="res_better_zip_tw_226" model="res.better.zip">
+            <field name="code">715</field>
+            <field name="name">715</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_TNC"/>
+            <field name="city">楠西區</field>
+        </record>
+        <record id="res_better_zip_tw_227" model="res.better.zip">
+            <field name="code">716</field>
+            <field name="name">716</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_TNC"/>
+            <field name="city">南化區</field>
+        </record>
+        <record id="res_better_zip_tw_228" model="res.better.zip">
+            <field name="code">717</field>
+            <field name="name">717</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_TNC"/>
+            <field name="city">仁德區</field>
+        </record>
+        <record id="res_better_zip_tw_229" model="res.better.zip">
+            <field name="code">718</field>
+            <field name="name">718</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_TNC"/>
+            <field name="city">關廟區</field>
+        </record>
+        <record id="res_better_zip_tw_230" model="res.better.zip">
+            <field name="code">719</field>
+            <field name="name">719</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_TNC"/>
+            <field name="city">龍崎區</field>
+        </record>
+        <record id="res_better_zip_tw_231" model="res.better.zip">
+            <field name="code">720</field>
+            <field name="name">720</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_TNC"/>
+            <field name="city">官田區</field>
+        </record>
+        <record id="res_better_zip_tw_232" model="res.better.zip">
+            <field name="code">721</field>
+            <field name="name">721</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_TNC"/>
+            <field name="city">麻豆區</field>
+        </record>
+        <record id="res_better_zip_tw_233" model="res.better.zip">
+            <field name="code">722</field>
+            <field name="name">722</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_TNC"/>
+            <field name="city">佳里區</field>
+        </record>
+        <record id="res_better_zip_tw_234" model="res.better.zip">
+            <field name="code">723</field>
+            <field name="name">723</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_TNC"/>
+            <field name="city">西港區</field>
+        </record>
+        <record id="res_better_zip_tw_235" model="res.better.zip">
+            <field name="code">724</field>
+            <field name="name">724</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_TNC"/>
+            <field name="city">七股區</field>
+        </record>
+        <record id="res_better_zip_tw_236" model="res.better.zip">
+            <field name="code">725</field>
+            <field name="name">725</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_TNC"/>
+            <field name="city">將軍區</field>
+        </record>
+        <record id="res_better_zip_tw_237" model="res.better.zip">
+            <field name="code">726</field>
+            <field name="name">726</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_TNC"/>
+            <field name="city">學甲區</field>
+        </record>
+        <record id="res_better_zip_tw_238" model="res.better.zip">
+            <field name="code">727</field>
+            <field name="name">727</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_TNC"/>
+            <field name="city">北門區</field>
+        </record>
+        <record id="res_better_zip_tw_239" model="res.better.zip">
+            <field name="code">730</field>
+            <field name="name">730</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_TNC"/>
+            <field name="city">新營區</field>
+        </record>
+        <record id="res_better_zip_tw_240" model="res.better.zip">
+            <field name="code">731</field>
+            <field name="name">731</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_TNC"/>
+            <field name="city">後壁區</field>
+        </record>
+        <record id="res_better_zip_tw_241" model="res.better.zip">
+            <field name="code">732</field>
+            <field name="name">732</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_TNC"/>
+            <field name="city">白河區</field>
+        </record>
+        <record id="res_better_zip_tw_242" model="res.better.zip">
+            <field name="code">733</field>
+            <field name="name">733</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_TNC"/>
+            <field name="city">東山區</field>
+        </record>
+        <record id="res_better_zip_tw_243" model="res.better.zip">
+            <field name="code">734</field>
+            <field name="name">734</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_TNC"/>
+            <field name="city">六甲區</field>
+        </record>
+        <record id="res_better_zip_tw_244" model="res.better.zip">
+            <field name="code">735</field>
+            <field name="name">735</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_TNC"/>
+            <field name="city">下營區</field>
+        </record>
+        <record id="res_better_zip_tw_245" model="res.better.zip">
+            <field name="code">736</field>
+            <field name="name">736</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_TNC"/>
+            <field name="city">柳營區</field>
+        </record>
+        <record id="res_better_zip_tw_246" model="res.better.zip">
+            <field name="code">737</field>
+            <field name="name">737</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_TNC"/>
+            <field name="city">鹽水區</field>
+        </record>
+        <record id="res_better_zip_tw_247" model="res.better.zip">
+            <field name="code">741</field>
+            <field name="name">741</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_TNC"/>
+            <field name="city">新市區</field>
+        </record>
+        <record id="res_better_zip_tw_248" model="res.better.zip">
+            <field name="code">742</field>
+            <field name="name">742</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_TNC"/>
+            <field name="city">大內區</field>
+        </record>
+        <record id="res_better_zip_tw_249" model="res.better.zip">
+            <field name="code">743</field>
+            <field name="name">743</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_TNC"/>
+            <field name="city">山上區</field>
+        </record>
+        <record id="res_better_zip_tw_250" model="res.better.zip">
+            <field name="code">745</field>
+            <field name="name">745</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_TNC"/>
+            <field name="city">安定區</field>
+        </record>
+        <record id="res_better_zip_tw_251" model="res.better.zip">
+            <field name="code">800</field>
+            <field name="name">800</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_KHC"/>
+            <field name="city">新興區</field>
+        </record>
+        <record id="res_better_zip_tw_252" model="res.better.zip">
+            <field name="code">801</field>
+            <field name="name">801</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_KHC"/>
+            <field name="city">前金區</field>
+        </record>
+        <record id="res_better_zip_tw_253" model="res.better.zip">
+            <field name="code">802</field>
+            <field name="name">802</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_KHC"/>
+            <field name="city">苓雅區</field>
+        </record>
+        <record id="res_better_zip_tw_254" model="res.better.zip">
+            <field name="code">803</field>
+            <field name="name">803</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_KHC"/>
+            <field name="city">鹽埕區</field>
+        </record>
+        <record id="res_better_zip_tw_255" model="res.better.zip">
+            <field name="code">804</field>
+            <field name="name">804</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_KHC"/>
+            <field name="city">鼓山區</field>
+        </record>
+        <record id="res_better_zip_tw_256" model="res.better.zip">
+            <field name="code">805</field>
+            <field name="name">805</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_KHC"/>
+            <field name="city">旗津區</field>
+        </record>
+        <record id="res_better_zip_tw_257" model="res.better.zip">
+            <field name="code">806</field>
+            <field name="name">806</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_KHC"/>
+            <field name="city">前鎮區</field>
+        </record>
+        <record id="res_better_zip_tw_258" model="res.better.zip">
+            <field name="code">807</field>
+            <field name="name">807</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_KHC"/>
+            <field name="city">三民區</field>
+        </record>
+        <record id="res_better_zip_tw_259" model="res.better.zip">
+            <field name="code">811</field>
+            <field name="name">811</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_KHC"/>
+            <field name="city">楠梓區</field>
+        </record>
+        <record id="res_better_zip_tw_260" model="res.better.zip">
+            <field name="code">812</field>
+            <field name="name">812</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_KHC"/>
+            <field name="city">小港區</field>
+        </record>
+        <record id="res_better_zip_tw_261" model="res.better.zip">
+            <field name="code">813</field>
+            <field name="name">813</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_KHC"/>
+            <field name="city">左營區</field>
+        </record>
+        <record id="res_better_zip_tw_262" model="res.better.zip">
+            <field name="code">814</field>
+            <field name="name">814</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_KHC"/>
+            <field name="city">仁武區</field>
+        </record>
+        <record id="res_better_zip_tw_263" model="res.better.zip">
+            <field name="code">815</field>
+            <field name="name">815</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_KHC"/>
+            <field name="city">大社區</field>
+        </record>
+        <record id="res_better_zip_tw_264" model="res.better.zip">
+            <field name="code">817</field>
+            <field name="name">817</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_KHC"/>
+            <field name="city">東沙群島</field>
+        </record>
+        <record id="res_better_zip_tw_265" model="res.better.zip">
+            <field name="code">819</field>
+            <field name="name">819</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_KHC"/>
+            <field name="city">南沙群島</field>
+        </record>
+        <record id="res_better_zip_tw_266" model="res.better.zip">
+            <field name="code">820</field>
+            <field name="name">820</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_KHC"/>
+            <field name="city">岡山區</field>
+        </record>
+        <record id="res_better_zip_tw_267" model="res.better.zip">
+            <field name="code">821</field>
+            <field name="name">821</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_KHC"/>
+            <field name="city">路竹區</field>
+        </record>
+        <record id="res_better_zip_tw_268" model="res.better.zip">
+            <field name="code">822</field>
+            <field name="name">822</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_KHC"/>
+            <field name="city">阿蓮區</field>
+        </record>
+        <record id="res_better_zip_tw_269" model="res.better.zip">
+            <field name="code">823</field>
+            <field name="name">823</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_KHC"/>
+            <field name="city">田寮區</field>
+        </record>
+        <record id="res_better_zip_tw_270" model="res.better.zip">
+            <field name="code">824</field>
+            <field name="name">824</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_KHC"/>
+            <field name="city">燕巢區</field>
+        </record>
+        <record id="res_better_zip_tw_271" model="res.better.zip">
+            <field name="code">825</field>
+            <field name="name">825</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_KHC"/>
+            <field name="city">橋頭區</field>
+        </record>
+        <record id="res_better_zip_tw_272" model="res.better.zip">
+            <field name="code">826</field>
+            <field name="name">826</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_KHC"/>
+            <field name="city">梓官區</field>
+        </record>
+        <record id="res_better_zip_tw_273" model="res.better.zip">
+            <field name="code">827</field>
+            <field name="name">827</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_KHC"/>
+            <field name="city">彌陀區</field>
+        </record>
+        <record id="res_better_zip_tw_274" model="res.better.zip">
+            <field name="code">828</field>
+            <field name="name">828</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_KHC"/>
+            <field name="city">永安區</field>
+        </record>
+        <record id="res_better_zip_tw_275" model="res.better.zip">
+            <field name="code">829</field>
+            <field name="name">829</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_KHC"/>
+            <field name="city">湖內區</field>
+        </record>
+        <record id="res_better_zip_tw_276" model="res.better.zip">
+            <field name="code">830</field>
+            <field name="name">830</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_KHC"/>
+            <field name="city">鳳山區</field>
+        </record>
+        <record id="res_better_zip_tw_277" model="res.better.zip">
+            <field name="code">831</field>
+            <field name="name">831</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_KHC"/>
+            <field name="city">大寮區</field>
+        </record>
+        <record id="res_better_zip_tw_278" model="res.better.zip">
+            <field name="code">832</field>
+            <field name="name">832</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_KHC"/>
+            <field name="city">林園區</field>
+        </record>
+        <record id="res_better_zip_tw_279" model="res.better.zip">
+            <field name="code">833</field>
+            <field name="name">833</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_KHC"/>
+            <field name="city">鳥松區</field>
+        </record>
+        <record id="res_better_zip_tw_280" model="res.better.zip">
+            <field name="code">840</field>
+            <field name="name">840</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_KHC"/>
+            <field name="city">大樹區</field>
+        </record>
+        <record id="res_better_zip_tw_281" model="res.better.zip">
+            <field name="code">842</field>
+            <field name="name">842</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_KHC"/>
+            <field name="city">旗山區</field>
+        </record>
+        <record id="res_better_zip_tw_282" model="res.better.zip">
+            <field name="code">843</field>
+            <field name="name">843</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_KHC"/>
+            <field name="city">美濃區</field>
+        </record>
+        <record id="res_better_zip_tw_283" model="res.better.zip">
+            <field name="code">844</field>
+            <field name="name">844</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_KHC"/>
+            <field name="city">六龜區</field>
+        </record>
+        <record id="res_better_zip_tw_284" model="res.better.zip">
+            <field name="code">845</field>
+            <field name="name">845</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_KHC"/>
+            <field name="city">內門區</field>
+        </record>
+        <record id="res_better_zip_tw_285" model="res.better.zip">
+            <field name="code">846</field>
+            <field name="name">846</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_KHC"/>
+            <field name="city">杉林區</field>
+        </record>
+        <record id="res_better_zip_tw_286" model="res.better.zip">
+            <field name="code">847</field>
+            <field name="name">847</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_KHC"/>
+            <field name="city">甲仙區</field>
+        </record>
+        <record id="res_better_zip_tw_287" model="res.better.zip">
+            <field name="code">848</field>
+            <field name="name">848</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_KHC"/>
+            <field name="city">桃源區</field>
+        </record>
+        <record id="res_better_zip_tw_288" model="res.better.zip">
+            <field name="code">849</field>
+            <field name="name">849</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_KHC"/>
+            <field name="city">那瑪夏區</field>
+        </record>
+        <record id="res_better_zip_tw_289" model="res.better.zip">
+            <field name="code">851</field>
+            <field name="name">851</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_KHC"/>
+            <field name="city">茂林區</field>
+        </record>
+        <record id="res_better_zip_tw_290" model="res.better.zip">
+            <field name="code">852</field>
+            <field name="name">852</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_KHC"/>
+            <field name="city">茄萣區</field>
+        </record>
+        <record id="res_better_zip_tw_291" model="res.better.zip">
+            <field name="code">880</field>
+            <field name="name">880</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_PHS"/>
+            <field name="city">馬公市</field>
+        </record>
+        <record id="res_better_zip_tw_292" model="res.better.zip">
+            <field name="code">881</field>
+            <field name="name">881</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_PHS"/>
+            <field name="city">西嶼鄉</field>
+        </record>
+        <record id="res_better_zip_tw_293" model="res.better.zip">
+            <field name="code">882</field>
+            <field name="name">882</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_PHS"/>
+            <field name="city">望安鄉</field>
+        </record>
+        <record id="res_better_zip_tw_294" model="res.better.zip">
+            <field name="code">883</field>
+            <field name="name">883</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_PHS"/>
+            <field name="city">七美鄉</field>
+        </record>
+        <record id="res_better_zip_tw_295" model="res.better.zip">
+            <field name="code">884</field>
+            <field name="name">884</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_PHS"/>
+            <field name="city">白沙鄉</field>
+        </record>
+        <record id="res_better_zip_tw_296" model="res.better.zip">
+            <field name="code">885</field>
+            <field name="name">885</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_PHS"/>
+            <field name="city">湖西鄉</field>
+        </record>
+        <record id="res_better_zip_tw_297" model="res.better.zip">
+            <field name="code">890</field>
+            <field name="name">890</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_KMS"/>
+            <field name="city">金沙鎮</field>
+        </record>
+        <record id="res_better_zip_tw_298" model="res.better.zip">
+            <field name="code">891</field>
+            <field name="name">891</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_KMS"/>
+            <field name="city">金湖鎮</field>
+        </record>
+        <record id="res_better_zip_tw_299" model="res.better.zip">
+            <field name="code">892</field>
+            <field name="name">892</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_KMS"/>
+            <field name="city">金寧鄉</field>
+        </record>
+        <record id="res_better_zip_tw_300" model="res.better.zip">
+            <field name="code">893</field>
+            <field name="name">893</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_KMS"/>
+            <field name="city">金城鎮</field>
+        </record>
+        <record id="res_better_zip_tw_301" model="res.better.zip">
+            <field name="code">894</field>
+            <field name="name">894</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_KMS"/>
+            <field name="city">烈嶼鄉</field>
+        </record>
+        <record id="res_better_zip_tw_302" model="res.better.zip">
+            <field name="code">896</field>
+            <field name="name">896</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_KMS"/>
+            <field name="city">烏坵鄉</field>
+        </record>
+        <record id="res_better_zip_tw_303" model="res.better.zip">
+            <field name="code">900</field>
+            <field name="name">900</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_PDS"/>
+            <field name="city">屏東市</field>
+        </record>
+        <record id="res_better_zip_tw_304" model="res.better.zip">
+            <field name="code">901</field>
+            <field name="name">901</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_PDS"/>
+            <field name="city">三地門鄉</field>
+        </record>
+        <record id="res_better_zip_tw_305" model="res.better.zip">
+            <field name="code">902</field>
+            <field name="name">902</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_PDS"/>
+            <field name="city">霧臺鄉</field>
+        </record>
+        <record id="res_better_zip_tw_306" model="res.better.zip">
+            <field name="code">903</field>
+            <field name="name">903</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_PDS"/>
+            <field name="city">瑪家鄉</field>
+        </record>
+        <record id="res_better_zip_tw_307" model="res.better.zip">
+            <field name="code">904</field>
+            <field name="name">904</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_PDS"/>
+            <field name="city">九如鄉</field>
+        </record>
+        <record id="res_better_zip_tw_308" model="res.better.zip">
+            <field name="code">905</field>
+            <field name="name">905</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_PDS"/>
+            <field name="city">里港鄉</field>
+        </record>
+        <record id="res_better_zip_tw_309" model="res.better.zip">
+            <field name="code">906</field>
+            <field name="name">906</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_PDS"/>
+            <field name="city">高樹鄉</field>
+        </record>
+        <record id="res_better_zip_tw_310" model="res.better.zip">
+            <field name="code">907</field>
+            <field name="name">907</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_PDS"/>
+            <field name="city">鹽埔鄉</field>
+        </record>
+        <record id="res_better_zip_tw_311" model="res.better.zip">
+            <field name="code">908</field>
+            <field name="name">908</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_PDS"/>
+            <field name="city">長治鄉</field>
+        </record>
+        <record id="res_better_zip_tw_312" model="res.better.zip">
+            <field name="code">909</field>
+            <field name="name">909</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_PDS"/>
+            <field name="city">麟洛鄉</field>
+        </record>
+        <record id="res_better_zip_tw_313" model="res.better.zip">
+            <field name="code">911</field>
+            <field name="name">911</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_PDS"/>
+            <field name="city">竹田鄉</field>
+        </record>
+        <record id="res_better_zip_tw_314" model="res.better.zip">
+            <field name="code">912</field>
+            <field name="name">912</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_PDS"/>
+            <field name="city">內埔鄉</field>
+        </record>
+        <record id="res_better_zip_tw_315" model="res.better.zip">
+            <field name="code">913</field>
+            <field name="name">913</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_PDS"/>
+            <field name="city">萬丹鄉</field>
+        </record>
+        <record id="res_better_zip_tw_316" model="res.better.zip">
+            <field name="code">920</field>
+            <field name="name">920</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_PDS"/>
+            <field name="city">潮州鎮</field>
+        </record>
+        <record id="res_better_zip_tw_317" model="res.better.zip">
+            <field name="code">921</field>
+            <field name="name">921</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_PDS"/>
+            <field name="city">泰武鄉</field>
+        </record>
+        <record id="res_better_zip_tw_318" model="res.better.zip">
+            <field name="code">922</field>
+            <field name="name">922</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_PDS"/>
+            <field name="city">來義鄉</field>
+        </record>
+        <record id="res_better_zip_tw_319" model="res.better.zip">
+            <field name="code">923</field>
+            <field name="name">923</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_PDS"/>
+            <field name="city">萬巒鄉</field>
+        </record>
+        <record id="res_better_zip_tw_320" model="res.better.zip">
+            <field name="code">924</field>
+            <field name="name">924</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_PDS"/>
+            <field name="city">崁頂鄉</field>
+        </record>
+        <record id="res_better_zip_tw_321" model="res.better.zip">
+            <field name="code">925</field>
+            <field name="name">925</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_PDS"/>
+            <field name="city">新埤鄉</field>
+        </record>
+        <record id="res_better_zip_tw_322" model="res.better.zip">
+            <field name="code">926</field>
+            <field name="name">926</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_PDS"/>
+            <field name="city">南州鄉</field>
+        </record>
+        <record id="res_better_zip_tw_323" model="res.better.zip">
+            <field name="code">927</field>
+            <field name="name">927</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_PDS"/>
+            <field name="city">林邊鄉</field>
+        </record>
+        <record id="res_better_zip_tw_324" model="res.better.zip">
+            <field name="code">928</field>
+            <field name="name">928</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_PDS"/>
+            <field name="city">東港鎮</field>
+        </record>
+        <record id="res_better_zip_tw_325" model="res.better.zip">
+            <field name="code">929</field>
+            <field name="name">929</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_PDS"/>
+            <field name="city">琉球鄉</field>
+        </record>
+        <record id="res_better_zip_tw_326" model="res.better.zip">
+            <field name="code">931</field>
+            <field name="name">931</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_PDS"/>
+            <field name="city">佳冬鄉</field>
+        </record>
+        <record id="res_better_zip_tw_327" model="res.better.zip">
+            <field name="code">932</field>
+            <field name="name">932</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_PDS"/>
+            <field name="city">新園鄉</field>
+        </record>
+        <record id="res_better_zip_tw_328" model="res.better.zip">
+            <field name="code">940</field>
+            <field name="name">940</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_PDS"/>
+            <field name="city">枋寮鄉</field>
+        </record>
+        <record id="res_better_zip_tw_329" model="res.better.zip">
+            <field name="code">941</field>
+            <field name="name">941</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_PDS"/>
+            <field name="city">枋山鄉</field>
+        </record>
+        <record id="res_better_zip_tw_330" model="res.better.zip">
+            <field name="code">942</field>
+            <field name="name">942</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_PDS"/>
+            <field name="city">春日鄉</field>
+        </record>
+        <record id="res_better_zip_tw_331" model="res.better.zip">
+            <field name="code">943</field>
+            <field name="name">943</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_PDS"/>
+            <field name="city">獅子鄉</field>
+        </record>
+        <record id="res_better_zip_tw_332" model="res.better.zip">
+            <field name="code">944</field>
+            <field name="name">944</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_PDS"/>
+            <field name="city">車城鄉</field>
+        </record>
+        <record id="res_better_zip_tw_333" model="res.better.zip">
+            <field name="code">945</field>
+            <field name="name">945</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_PDS"/>
+            <field name="city">牡丹鄉</field>
+        </record>
+        <record id="res_better_zip_tw_334" model="res.better.zip">
+            <field name="code">946</field>
+            <field name="name">946</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_PDS"/>
+            <field name="city">恆春鎮</field>
+        </record>
+        <record id="res_better_zip_tw_335" model="res.better.zip">
+            <field name="code">947</field>
+            <field name="name">947</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_PDS"/>
+            <field name="city">滿州鄉</field>
+        </record>
+        <record id="res_better_zip_tw_336" model="res.better.zip">
+            <field name="code">950</field>
+            <field name="name">950</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_TDS"/>
+            <field name="city">臺東市</field>
+        </record>
+        <record id="res_better_zip_tw_337" model="res.better.zip">
+            <field name="code">951</field>
+            <field name="name">951</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_TDS"/>
+            <field name="city">綠島鄉</field>
+        </record>
+        <record id="res_better_zip_tw_338" model="res.better.zip">
+            <field name="code">952</field>
+            <field name="name">952</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_TDS"/>
+            <field name="city">蘭嶼鄉</field>
+        </record>
+        <record id="res_better_zip_tw_339" model="res.better.zip">
+            <field name="code">953</field>
+            <field name="name">953</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_TDS"/>
+            <field name="city">延平鄉</field>
+        </record>
+        <record id="res_better_zip_tw_340" model="res.better.zip">
+            <field name="code">954</field>
+            <field name="name">954</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_TDS"/>
+            <field name="city">卑南鄉</field>
+        </record>
+        <record id="res_better_zip_tw_341" model="res.better.zip">
+            <field name="code">955</field>
+            <field name="name">955</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_TDS"/>
+            <field name="city">鹿野鄉</field>
+        </record>
+        <record id="res_better_zip_tw_342" model="res.better.zip">
+            <field name="code">956</field>
+            <field name="name">956</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_TDS"/>
+            <field name="city">關山鎮</field>
+        </record>
+        <record id="res_better_zip_tw_343" model="res.better.zip">
+            <field name="code">957</field>
+            <field name="name">957</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_TDS"/>
+            <field name="city">海端鄉</field>
+        </record>
+        <record id="res_better_zip_tw_344" model="res.better.zip">
+            <field name="code">958</field>
+            <field name="name">958</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_TDS"/>
+            <field name="city">池上鄉</field>
+        </record>
+        <record id="res_better_zip_tw_345" model="res.better.zip">
+            <field name="code">959</field>
+            <field name="name">959</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_TDS"/>
+            <field name="city">東河鄉</field>
+        </record>
+        <record id="res_better_zip_tw_346" model="res.better.zip">
+            <field name="code">961</field>
+            <field name="name">961</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_TDS"/>
+            <field name="city">成功鎮</field>
+        </record>
+        <record id="res_better_zip_tw_347" model="res.better.zip">
+            <field name="code">962</field>
+            <field name="name">962</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_TDS"/>
+            <field name="city">長濱鄉</field>
+        </record>
+        <record id="res_better_zip_tw_348" model="res.better.zip">
+            <field name="code">963</field>
+            <field name="name">963</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_TDS"/>
+            <field name="city">太麻里鄉</field>
+        </record>
+        <record id="res_better_zip_tw_349" model="res.better.zip">
+            <field name="code">964</field>
+            <field name="name">964</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_TDS"/>
+            <field name="city">金峰鄉</field>
+        </record>
+        <record id="res_better_zip_tw_350" model="res.better.zip">
+            <field name="code">965</field>
+            <field name="name">965</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_TDS"/>
+            <field name="city">大武鄉</field>
+        </record>
+        <record id="res_better_zip_tw_351" model="res.better.zip">
+            <field name="code">966</field>
+            <field name="name">966</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_TDS"/>
+            <field name="city">達仁鄉</field>
+        </record>
+        <record id="res_better_zip_tw_352" model="res.better.zip">
+            <field name="code">970</field>
+            <field name="name">970</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_HLS"/>
+            <field name="city">花蓮市</field>
+        </record>
+        <record id="res_better_zip_tw_353" model="res.better.zip">
+            <field name="code">971</field>
+            <field name="name">971</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_HLS"/>
+            <field name="city">新城鄉</field>
+        </record>
+        <record id="res_better_zip_tw_354" model="res.better.zip">
+            <field name="code">972</field>
+            <field name="name">972</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_HLS"/>
+            <field name="city">秀林鄉</field>
+        </record>
+        <record id="res_better_zip_tw_355" model="res.better.zip">
+            <field name="code">973</field>
+            <field name="name">973</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_HLS"/>
+            <field name="city">吉安鄉</field>
+        </record>
+        <record id="res_better_zip_tw_356" model="res.better.zip">
+            <field name="code">974</field>
+            <field name="name">974</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_HLS"/>
+            <field name="city">壽豐鄉</field>
+        </record>
+        <record id="res_better_zip_tw_357" model="res.better.zip">
+            <field name="code">975</field>
+            <field name="name">975</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_HLS"/>
+            <field name="city">鳳林鎮</field>
+        </record>
+        <record id="res_better_zip_tw_358" model="res.better.zip">
+            <field name="code">976</field>
+            <field name="name">976</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_HLS"/>
+            <field name="city">光復鄉</field>
+        </record>
+        <record id="res_better_zip_tw_359" model="res.better.zip">
+            <field name="code">977</field>
+            <field name="name">977</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_HLS"/>
+            <field name="city">豐濱鄉</field>
+        </record>
+        <record id="res_better_zip_tw_360" model="res.better.zip">
+            <field name="code">978</field>
+            <field name="name">978</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_HLS"/>
+            <field name="city">瑞穗鄉</field>
+        </record>
+        <record id="res_better_zip_tw_361" model="res.better.zip">
+            <field name="code">979</field>
+            <field name="name">979</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_HLS"/>
+            <field name="city">萬榮鄉</field>
+        </record>
+        <record id="res_better_zip_tw_362" model="res.better.zip">
+            <field name="code">981</field>
+            <field name="name">981</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_HLS"/>
+            <field name="city">玉里鎮</field>
+        </record>
+        <record id="res_better_zip_tw_363" model="res.better.zip">
+            <field name="code">982</field>
+            <field name="name">982</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_HLS"/>
+            <field name="city">卓溪鄉</field>
+        </record>
+        <record id="res_better_zip_tw_364" model="res.better.zip">
+            <field name="code">983</field>
+            <field name="name">983</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_HLS"/>
+            <field name="city">富里鄉</field>
+        </record>
+    </data>
+</odoo>
