@@ -1,0 +1,2195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<odoo>
+    <data>
+        <record id="res_city_tw_0" model="res.city">
+            <field name="zipcode">100</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_TPC"/>
+            <field name="name">中正區</field>
+        </record>
+        <record id="res_city_tw_1" model="res.city">
+            <field name="zipcode">103</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_TPC"/>
+            <field name="name">大同區</field>
+        </record>
+        <record id="res_city_tw_2" model="res.city">
+            <field name="zipcode">104</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_TPC"/>
+            <field name="name">中山區</field>
+        </record>
+        <record id="res_city_tw_3" model="res.city">
+            <field name="zipcode">105</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_TPC"/>
+            <field name="name">松山區</field>
+        </record>
+        <record id="res_city_tw_4" model="res.city">
+            <field name="zipcode">106</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_TPC"/>
+            <field name="name">大安區</field>
+        </record>
+        <record id="res_city_tw_5" model="res.city">
+            <field name="zipcode">108</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_TPC"/>
+            <field name="name">萬華區</field>
+        </record>
+        <record id="res_city_tw_6" model="res.city">
+            <field name="zipcode">110</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_TPC"/>
+            <field name="name">信義區</field>
+        </record>
+        <record id="res_city_tw_7" model="res.city">
+            <field name="zipcode">111</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_TPC"/>
+            <field name="name">士林區</field>
+        </record>
+        <record id="res_city_tw_8" model="res.city">
+            <field name="zipcode">112</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_TPC"/>
+            <field name="name">北投區</field>
+        </record>
+        <record id="res_city_tw_9" model="res.city">
+            <field name="zipcode">114</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_TPC"/>
+            <field name="name">內湖區</field>
+        </record>
+        <record id="res_city_tw_10" model="res.city">
+            <field name="zipcode">115</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_TPC"/>
+            <field name="name">南港區</field>
+        </record>
+        <record id="res_city_tw_11" model="res.city">
+            <field name="zipcode">116</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_TPC"/>
+            <field name="name">文山區</field>
+        </record>
+        <record id="res_city_tw_12" model="res.city">
+            <field name="zipcode">200</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_KLC"/>
+            <field name="name">仁愛區</field>
+        </record>
+        <record id="res_city_tw_13" model="res.city">
+            <field name="zipcode">201</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_KLC"/>
+            <field name="name">信義區</field>
+        </record>
+        <record id="res_city_tw_14" model="res.city">
+            <field name="zipcode">202</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_KLC"/>
+            <field name="name">中正區</field>
+        </record>
+        <record id="res_city_tw_15" model="res.city">
+            <field name="zipcode">203</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_KLC"/>
+            <field name="name">中山區</field>
+        </record>
+        <record id="res_city_tw_16" model="res.city">
+            <field name="zipcode">204</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_KLC"/>
+            <field name="name">安樂區</field>
+        </record>
+        <record id="res_city_tw_17" model="res.city">
+            <field name="zipcode">205</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_KLC"/>
+            <field name="name">暖暖區</field>
+        </record>
+        <record id="res_city_tw_18" model="res.city">
+            <field name="zipcode">206</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_KLC"/>
+            <field name="name">七堵區</field>
+        </record>
+        <record id="res_city_tw_19" model="res.city">
+            <field name="zipcode">207</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_NTC"/>
+            <field name="name">萬里區</field>
+        </record>
+        <record id="res_city_tw_20" model="res.city">
+            <field name="zipcode">208</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_NTC"/>
+            <field name="name">金山區</field>
+        </record>
+        <record id="res_city_tw_21" model="res.city">
+            <field name="zipcode">209</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_LJS"/>
+            <field name="name">南竿鄉</field>
+        </record>
+        <record id="res_city_tw_22" model="res.city">
+            <field name="zipcode">210</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_LJS"/>
+            <field name="name">北竿鄉</field>
+        </record>
+        <record id="res_city_tw_23" model="res.city">
+            <field name="zipcode">211</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_LJS"/>
+            <field name="name">莒光鄉</field>
+        </record>
+        <record id="res_city_tw_24" model="res.city">
+            <field name="zipcode">212</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_LJS"/>
+            <field name="name">東引鄉</field>
+        </record>
+        <record id="res_city_tw_25" model="res.city">
+            <field name="zipcode">220</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_NTC"/>
+            <field name="name">板橋區</field>
+        </record>
+        <record id="res_city_tw_26" model="res.city">
+            <field name="zipcode">221</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_NTC"/>
+            <field name="name">汐止區</field>
+        </record>
+        <record id="res_city_tw_27" model="res.city">
+            <field name="zipcode">222</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_NTC"/>
+            <field name="name">深坑區</field>
+        </record>
+        <record id="res_city_tw_28" model="res.city">
+            <field name="zipcode">223</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_NTC"/>
+            <field name="name">石碇區</field>
+        </record>
+        <record id="res_city_tw_29" model="res.city">
+            <field name="zipcode">224</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_NTC"/>
+            <field name="name">瑞芳區</field>
+        </record>
+        <record id="res_city_tw_30" model="res.city">
+            <field name="zipcode">226</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_NTC"/>
+            <field name="name">平溪區</field>
+        </record>
+        <record id="res_city_tw_31" model="res.city">
+            <field name="zipcode">227</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_NTC"/>
+            <field name="name">雙溪區</field>
+        </record>
+        <record id="res_city_tw_32" model="res.city">
+            <field name="zipcode">228</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_NTC"/>
+            <field name="name">貢寮區</field>
+        </record>
+        <record id="res_city_tw_33" model="res.city">
+            <field name="zipcode">231</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_NTC"/>
+            <field name="name">新店區</field>
+        </record>
+        <record id="res_city_tw_34" model="res.city">
+            <field name="zipcode">232</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_NTC"/>
+            <field name="name">坪林區</field>
+        </record>
+        <record id="res_city_tw_35" model="res.city">
+            <field name="zipcode">233</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_NTC"/>
+            <field name="name">烏來區</field>
+        </record>
+        <record id="res_city_tw_36" model="res.city">
+            <field name="zipcode">234</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_NTC"/>
+            <field name="name">永和區</field>
+        </record>
+        <record id="res_city_tw_37" model="res.city">
+            <field name="zipcode">235</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_NTC"/>
+            <field name="name">中和區</field>
+        </record>
+        <record id="res_city_tw_38" model="res.city">
+            <field name="zipcode">236</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_NTC"/>
+            <field name="name">土城區</field>
+        </record>
+        <record id="res_city_tw_39" model="res.city">
+            <field name="zipcode">237</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_NTC"/>
+            <field name="name">三峽區</field>
+        </record>
+        <record id="res_city_tw_40" model="res.city">
+            <field name="zipcode">238</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_NTC"/>
+            <field name="name">樹林區</field>
+        </record>
+        <record id="res_city_tw_41" model="res.city">
+            <field name="zipcode">239</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_NTC"/>
+            <field name="name">鶯歌區</field>
+        </record>
+        <record id="res_city_tw_42" model="res.city">
+            <field name="zipcode">241</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_NTC"/>
+            <field name="name">三重區</field>
+        </record>
+        <record id="res_city_tw_43" model="res.city">
+            <field name="zipcode">242</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_NTC"/>
+            <field name="name">新莊區</field>
+        </record>
+        <record id="res_city_tw_44" model="res.city">
+            <field name="zipcode">243</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_NTC"/>
+            <field name="name">泰山區</field>
+        </record>
+        <record id="res_city_tw_45" model="res.city">
+            <field name="zipcode">244</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_NTC"/>
+            <field name="name">林口區</field>
+        </record>
+        <record id="res_city_tw_46" model="res.city">
+            <field name="zipcode">247</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_NTC"/>
+            <field name="name">蘆洲區</field>
+        </record>
+        <record id="res_city_tw_47" model="res.city">
+            <field name="zipcode">248</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_NTC"/>
+            <field name="name">五股區</field>
+        </record>
+        <record id="res_city_tw_48" model="res.city">
+            <field name="zipcode">249</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_NTC"/>
+            <field name="name">八里區</field>
+        </record>
+        <record id="res_city_tw_49" model="res.city">
+            <field name="zipcode">251</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_NTC"/>
+            <field name="name">淡水區</field>
+        </record>
+        <record id="res_city_tw_50" model="res.city">
+            <field name="zipcode">252</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_NTC"/>
+            <field name="name">三芝區</field>
+        </record>
+        <record id="res_city_tw_51" model="res.city">
+            <field name="zipcode">253</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_NTC"/>
+            <field name="name">石門區</field>
+        </record>
+        <record id="res_city_tw_52" model="res.city">
+            <field name="zipcode">260</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_YLS"/>
+            <field name="name">壯圍鄉</field>
+        </record>
+        <record id="res_city_tw_53" model="res.city">
+            <field name="zipcode">261</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_YLS"/>
+            <field name="name">頭城鎮</field>
+        </record>
+        <record id="res_city_tw_54" model="res.city">
+            <field name="zipcode">262</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_YLS"/>
+            <field name="name">礁溪鄉</field>
+        </record>
+        <record id="res_city_tw_55" model="res.city">
+            <field name="zipcode">264</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_YLS"/>
+            <field name="name">員山鄉</field>
+        </record>
+        <record id="res_city_tw_56" model="res.city">
+            <field name="zipcode">265</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_YLS"/>
+            <field name="name">羅東鎮</field>
+        </record>
+        <record id="res_city_tw_57" model="res.city">
+            <field name="zipcode">266</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_YLS"/>
+            <field name="name">三星鄉</field>
+        </record>
+        <record id="res_city_tw_58" model="res.city">
+            <field name="zipcode">267</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_YLS"/>
+            <field name="name">大同鄉</field>
+        </record>
+        <record id="res_city_tw_59" model="res.city">
+            <field name="zipcode">268</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_YLS"/>
+            <field name="name">五結鄉</field>
+        </record>
+        <record id="res_city_tw_60" model="res.city">
+            <field name="zipcode">269</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_YLS"/>
+            <field name="name">冬山鄉</field>
+        </record>
+        <record id="res_city_tw_61" model="res.city">
+            <field name="zipcode">270</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_YLS"/>
+            <field name="name">蘇澳鎮</field>
+        </record>
+        <record id="res_city_tw_62" model="res.city">
+            <field name="zipcode">272</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_YLS"/>
+            <field name="name">南澳鄉</field>
+        </record>
+        <record id="res_city_tw_63" model="res.city">
+            <field name="zipcode">290</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_YLS"/>
+            <field name="name">釣魚臺</field>
+        </record>
+        <record id="res_city_tw_64" model="res.city">
+            <field name="zipcode">300</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_HCS"/>
+            <field name="name">寶山鄉</field>
+        </record>
+        <record id="res_city_tw_65" model="res.city">
+            <field name="zipcode">302</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_HCS"/>
+            <field name="name">竹北市</field>
+        </record>
+        <record id="res_city_tw_66" model="res.city">
+            <field name="zipcode">303</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_HCS"/>
+            <field name="name">湖口鄉</field>
+        </record>
+        <record id="res_city_tw_67" model="res.city">
+            <field name="zipcode">304</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_HCS"/>
+            <field name="name">新豐鄉</field>
+        </record>
+        <record id="res_city_tw_68" model="res.city">
+            <field name="zipcode">305</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_HCS"/>
+            <field name="name">新埔鎮</field>
+        </record>
+        <record id="res_city_tw_69" model="res.city">
+            <field name="zipcode">306</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_HCS"/>
+            <field name="name">關西鎮</field>
+        </record>
+        <record id="res_city_tw_70" model="res.city">
+            <field name="zipcode">307</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_HCS"/>
+            <field name="name">芎林鄉</field>
+        </record>
+        <record id="res_city_tw_71" model="res.city">
+            <field name="zipcode">310</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_HCS"/>
+            <field name="name">竹東鎮</field>
+        </record>
+        <record id="res_city_tw_72" model="res.city">
+            <field name="zipcode">311</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_HCS"/>
+            <field name="name">五峰鄉</field>
+        </record>
+        <record id="res_city_tw_73" model="res.city">
+            <field name="zipcode">312</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_HCS"/>
+            <field name="name">橫山鄉</field>
+        </record>
+        <record id="res_city_tw_74" model="res.city">
+            <field name="zipcode">313</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_HCS"/>
+            <field name="name">尖石鄉</field>
+        </record>
+        <record id="res_city_tw_75" model="res.city">
+            <field name="zipcode">314</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_HCS"/>
+            <field name="name">北埔鄉</field>
+        </record>
+        <record id="res_city_tw_76" model="res.city">
+            <field name="zipcode">315</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_HCS"/>
+            <field name="name">峨眉鄉</field>
+        </record>
+        <record id="res_city_tw_77" model="res.city">
+            <field name="zipcode">320</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_HCS"/>
+            <field name="name">中壢區</field>
+        </record>
+        <record id="res_city_tw_78" model="res.city">
+            <field name="zipcode">324</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_TYC"/>
+            <field name="name">平鎮區</field>
+        </record>
+        <record id="res_city_tw_79" model="res.city">
+            <field name="zipcode">325</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_TYC"/>
+            <field name="name">龍潭區</field>
+        </record>
+        <record id="res_city_tw_80" model="res.city">
+            <field name="zipcode">326</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_TYC"/>
+            <field name="name">楊梅區</field>
+        </record>
+        <record id="res_city_tw_81" model="res.city">
+            <field name="zipcode">327</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_TYC"/>
+            <field name="name">新屋區</field>
+        </record>
+        <record id="res_city_tw_82" model="res.city">
+            <field name="zipcode">328</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_TYC"/>
+            <field name="name">觀音區</field>
+        </record>
+        <record id="res_city_tw_83" model="res.city">
+            <field name="zipcode">330</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_TYC"/>
+            <field name="name">桃園區</field>
+        </record>
+        <record id="res_city_tw_84" model="res.city">
+            <field name="zipcode">333</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_TYC"/>
+            <field name="name">龜山區</field>
+        </record>
+        <record id="res_city_tw_85" model="res.city">
+            <field name="zipcode">334</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_TYC"/>
+            <field name="name">八德區</field>
+        </record>
+        <record id="res_city_tw_86" model="res.city">
+            <field name="zipcode">335</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_TYC"/>
+            <field name="name">大溪區</field>
+        </record>
+        <record id="res_city_tw_87" model="res.city">
+            <field name="zipcode">336</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_TYC"/>
+            <field name="name">復興區</field>
+        </record>
+        <record id="res_city_tw_88" model="res.city">
+            <field name="zipcode">337</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_TYC"/>
+            <field name="name">大園區</field>
+        </record>
+        <record id="res_city_tw_89" model="res.city">
+            <field name="zipcode">338</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_TYC"/>
+            <field name="name">蘆竹區</field>
+        </record>
+        <record id="res_city_tw_90" model="res.city">
+            <field name="zipcode">350</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_MLS"/>
+            <field name="name">竹南鎮</field>
+        </record>
+        <record id="res_city_tw_91" model="res.city">
+            <field name="zipcode">351</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_MLS"/>
+            <field name="name">頭份市</field>
+        </record>
+        <record id="res_city_tw_92" model="res.city">
+            <field name="zipcode">352</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_MLS"/>
+            <field name="name">三灣鄉</field>
+        </record>
+        <record id="res_city_tw_93" model="res.city">
+            <field name="zipcode">353</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_MLS"/>
+            <field name="name">南庄鄉</field>
+        </record>
+        <record id="res_city_tw_94" model="res.city">
+            <field name="zipcode">354</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_MLS"/>
+            <field name="name">獅潭鄉</field>
+        </record>
+        <record id="res_city_tw_95" model="res.city">
+            <field name="zipcode">356</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_MLS"/>
+            <field name="name">後龍鎮</field>
+        </record>
+        <record id="res_city_tw_96" model="res.city">
+            <field name="zipcode">357</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_MLS"/>
+            <field name="name">通霄鎮</field>
+        </record>
+        <record id="res_city_tw_97" model="res.city">
+            <field name="zipcode">358</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_MLS"/>
+            <field name="name">苑裡鎮</field>
+        </record>
+        <record id="res_city_tw_98" model="res.city">
+            <field name="zipcode">360</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_MLS"/>
+            <field name="name">苗栗市</field>
+        </record>
+        <record id="res_city_tw_99" model="res.city">
+            <field name="zipcode">361</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_MLS"/>
+            <field name="name">造橋鄉</field>
+        </record>
+        <record id="res_city_tw_100" model="res.city">
+            <field name="zipcode">362</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_MLS"/>
+            <field name="name">頭屋鄉</field>
+        </record>
+        <record id="res_city_tw_101" model="res.city">
+            <field name="zipcode">363</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_MLS"/>
+            <field name="name">公館鄉</field>
+        </record>
+        <record id="res_city_tw_102" model="res.city">
+            <field name="zipcode">364</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_MLS"/>
+            <field name="name">大湖鄉</field>
+        </record>
+        <record id="res_city_tw_103" model="res.city">
+            <field name="zipcode">365</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_MLS"/>
+            <field name="name">泰安鄉</field>
+        </record>
+        <record id="res_city_tw_104" model="res.city">
+            <field name="zipcode">366</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_MLS"/>
+            <field name="name">銅鑼鄉</field>
+        </record>
+        <record id="res_city_tw_105" model="res.city">
+            <field name="zipcode">367</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_MLS"/>
+            <field name="name">三義鄉</field>
+        </record>
+        <record id="res_city_tw_106" model="res.city">
+            <field name="zipcode">368</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_MLS"/>
+            <field name="name">西湖鄉</field>
+        </record>
+        <record id="res_city_tw_107" model="res.city">
+            <field name="zipcode">369</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_MLS"/>
+            <field name="name">卓蘭鎮</field>
+        </record>
+        <record id="res_city_tw_108" model="res.city">
+            <field name="zipcode">400</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_TCC"/>
+            <field name="name">中區</field>
+        </record>
+        <record id="res_city_tw_109" model="res.city">
+            <field name="zipcode">401</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_TCC"/>
+            <field name="name">東區</field>
+        </record>
+        <record id="res_city_tw_110" model="res.city">
+            <field name="zipcode">402</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_TCC"/>
+            <field name="name">南區</field>
+        </record>
+        <record id="res_city_tw_111" model="res.city">
+            <field name="zipcode">403</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_TCC"/>
+            <field name="name">西區</field>
+        </record>
+        <record id="res_city_tw_112" model="res.city">
+            <field name="zipcode">404</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_TCC"/>
+            <field name="name">北區</field>
+        </record>
+        <record id="res_city_tw_113" model="res.city">
+            <field name="zipcode">406</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_TCC"/>
+            <field name="name">北屯區</field>
+        </record>
+        <record id="res_city_tw_114" model="res.city">
+            <field name="zipcode">407</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_TCC"/>
+            <field name="name">西屯區</field>
+        </record>
+        <record id="res_city_tw_115" model="res.city">
+            <field name="zipcode">408</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_TCC"/>
+            <field name="name">南屯區</field>
+        </record>
+        <record id="res_city_tw_116" model="res.city">
+            <field name="zipcode">411</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_TCC"/>
+            <field name="name">太平區</field>
+        </record>
+        <record id="res_city_tw_117" model="res.city">
+            <field name="zipcode">412</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_TCC"/>
+            <field name="name">大里區</field>
+        </record>
+        <record id="res_city_tw_118" model="res.city">
+            <field name="zipcode">413</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_TCC"/>
+            <field name="name">霧峰區</field>
+        </record>
+        <record id="res_city_tw_119" model="res.city">
+            <field name="zipcode">414</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_TCC"/>
+            <field name="name">烏日區</field>
+        </record>
+        <record id="res_city_tw_120" model="res.city">
+            <field name="zipcode">420</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_TCC"/>
+            <field name="name">豐原區</field>
+        </record>
+        <record id="res_city_tw_121" model="res.city">
+            <field name="zipcode">421</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_TCC"/>
+            <field name="name">后里區</field>
+        </record>
+        <record id="res_city_tw_122" model="res.city">
+            <field name="zipcode">422</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_TCC"/>
+            <field name="name">石岡區</field>
+        </record>
+        <record id="res_city_tw_123" model="res.city">
+            <field name="zipcode">423</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_TCC"/>
+            <field name="name">東勢區</field>
+        </record>
+        <record id="res_city_tw_124" model="res.city">
+            <field name="zipcode">424</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_TCC"/>
+            <field name="name">和平區</field>
+        </record>
+        <record id="res_city_tw_125" model="res.city">
+            <field name="zipcode">426</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_TCC"/>
+            <field name="name">新社區</field>
+        </record>
+        <record id="res_city_tw_126" model="res.city">
+            <field name="zipcode">427</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_TCC"/>
+            <field name="name">潭子區</field>
+        </record>
+        <record id="res_city_tw_127" model="res.city">
+            <field name="zipcode">428</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_TCC"/>
+            <field name="name">大雅區</field>
+        </record>
+        <record id="res_city_tw_128" model="res.city">
+            <field name="zipcode">429</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_TCC"/>
+            <field name="name">神岡區</field>
+        </record>
+        <record id="res_city_tw_129" model="res.city">
+            <field name="zipcode">432</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_TCC"/>
+            <field name="name">大肚區</field>
+        </record>
+        <record id="res_city_tw_130" model="res.city">
+            <field name="zipcode">433</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_TCC"/>
+            <field name="name">沙鹿區</field>
+        </record>
+        <record id="res_city_tw_131" model="res.city">
+            <field name="zipcode">434</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_TCC"/>
+            <field name="name">龍井區</field>
+        </record>
+        <record id="res_city_tw_132" model="res.city">
+            <field name="zipcode">435</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_TCC"/>
+            <field name="name">梧棲區</field>
+        </record>
+        <record id="res_city_tw_133" model="res.city">
+            <field name="zipcode">436</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_TCC"/>
+            <field name="name">清水區</field>
+        </record>
+        <record id="res_city_tw_134" model="res.city">
+            <field name="zipcode">437</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_TCC"/>
+            <field name="name">大甲區</field>
+        </record>
+        <record id="res_city_tw_135" model="res.city">
+            <field name="zipcode">438</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_TCC"/>
+            <field name="name">外埔區</field>
+        </record>
+        <record id="res_city_tw_136" model="res.city">
+            <field name="zipcode">439</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_TCC"/>
+            <field name="name">大安區</field>
+        </record>
+        <record id="res_city_tw_137" model="res.city">
+            <field name="zipcode">500</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_CHS"/>
+            <field name="name">彰化市</field>
+        </record>
+        <record id="res_city_tw_138" model="res.city">
+            <field name="zipcode">502</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_CHS"/>
+            <field name="name">芬園鄉</field>
+        </record>
+        <record id="res_city_tw_139" model="res.city">
+            <field name="zipcode">503</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_CHS"/>
+            <field name="name">花壇鄉</field>
+        </record>
+        <record id="res_city_tw_140" model="res.city">
+            <field name="zipcode">504</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_CHS"/>
+            <field name="name">秀水鄉</field>
+        </record>
+        <record id="res_city_tw_141" model="res.city">
+            <field name="zipcode">505</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_CHS"/>
+            <field name="name">鹿港鎮</field>
+        </record>
+        <record id="res_city_tw_142" model="res.city">
+            <field name="zipcode">506</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_CHS"/>
+            <field name="name">福興鄉</field>
+        </record>
+        <record id="res_city_tw_143" model="res.city">
+            <field name="zipcode">507</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_CHS"/>
+            <field name="name">線西鄉</field>
+        </record>
+        <record id="res_city_tw_144" model="res.city">
+            <field name="zipcode">508</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_CHS"/>
+            <field name="name">和美鎮</field>
+        </record>
+        <record id="res_city_tw_145" model="res.city">
+            <field name="zipcode">509</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_CHS"/>
+            <field name="name">伸港鄉</field>
+        </record>
+        <record id="res_city_tw_146" model="res.city">
+            <field name="zipcode">510</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_CHS"/>
+            <field name="name">員林市</field>
+        </record>
+        <record id="res_city_tw_147" model="res.city">
+            <field name="zipcode">511</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_CHS"/>
+            <field name="name">社頭鄉</field>
+        </record>
+        <record id="res_city_tw_148" model="res.city">
+            <field name="zipcode">512</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_CHS"/>
+            <field name="name">永靖鄉</field>
+        </record>
+        <record id="res_city_tw_149" model="res.city">
+            <field name="zipcode">513</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_CHS"/>
+            <field name="name">埔心鄉</field>
+        </record>
+        <record id="res_city_tw_150" model="res.city">
+            <field name="zipcode">514</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_CHS"/>
+            <field name="name">溪湖鎮</field>
+        </record>
+        <record id="res_city_tw_151" model="res.city">
+            <field name="zipcode">515</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_CHS"/>
+            <field name="name">大村鄉</field>
+        </record>
+        <record id="res_city_tw_152" model="res.city">
+            <field name="zipcode">516</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_CHS"/>
+            <field name="name">埔鹽鄉</field>
+        </record>
+        <record id="res_city_tw_153" model="res.city">
+            <field name="zipcode">520</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_CHS"/>
+            <field name="name">田中鎮</field>
+        </record>
+        <record id="res_city_tw_154" model="res.city">
+            <field name="zipcode">521</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_CHS"/>
+            <field name="name">北斗鎮</field>
+        </record>
+        <record id="res_city_tw_155" model="res.city">
+            <field name="zipcode">522</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_CHS"/>
+            <field name="name">田尾鄉</field>
+        </record>
+        <record id="res_city_tw_156" model="res.city">
+            <field name="zipcode">523</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_CHS"/>
+            <field name="name">埤頭鄉</field>
+        </record>
+        <record id="res_city_tw_157" model="res.city">
+            <field name="zipcode">524</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_CHS"/>
+            <field name="name">溪州鄉</field>
+        </record>
+        <record id="res_city_tw_158" model="res.city">
+            <field name="zipcode">525</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_CHS"/>
+            <field name="name">竹塘鄉</field>
+        </record>
+        <record id="res_city_tw_159" model="res.city">
+            <field name="zipcode">526</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_CHS"/>
+            <field name="name">二林鎮</field>
+        </record>
+        <record id="res_city_tw_160" model="res.city">
+            <field name="zipcode">527</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_CHS"/>
+            <field name="name">大城鄉</field>
+        </record>
+        <record id="res_city_tw_161" model="res.city">
+            <field name="zipcode">528</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_CHS"/>
+            <field name="name">芳苑鄉</field>
+        </record>
+        <record id="res_city_tw_162" model="res.city">
+            <field name="zipcode">530</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_CHS"/>
+            <field name="name">二水鄉</field>
+        </record>
+        <record id="res_city_tw_163" model="res.city">
+            <field name="zipcode">540</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_NTS"/>
+            <field name="name">南投市</field>
+        </record>
+        <record id="res_city_tw_164" model="res.city">
+            <field name="zipcode">541</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_NTS"/>
+            <field name="name">中寮鄉</field>
+        </record>
+        <record id="res_city_tw_165" model="res.city">
+            <field name="zipcode">542</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_NTS"/>
+            <field name="name">草屯鎮</field>
+        </record>
+        <record id="res_city_tw_166" model="res.city">
+            <field name="zipcode">544</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_NTS"/>
+            <field name="name">國姓鄉</field>
+        </record>
+        <record id="res_city_tw_167" model="res.city">
+            <field name="zipcode">545</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_NTS"/>
+            <field name="name">埔里鎮</field>
+        </record>
+        <record id="res_city_tw_168" model="res.city">
+            <field name="zipcode">546</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_NTS"/>
+            <field name="name">仁愛鄉</field>
+        </record>
+        <record id="res_city_tw_169" model="res.city">
+            <field name="zipcode">551</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_NTS"/>
+            <field name="name">名間鄉</field>
+        </record>
+        <record id="res_city_tw_170" model="res.city">
+            <field name="zipcode">552</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_NTS"/>
+            <field name="name">集集鎮</field>
+        </record>
+        <record id="res_city_tw_171" model="res.city">
+            <field name="zipcode">553</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_NTS"/>
+            <field name="name">水里鄉</field>
+        </record>
+        <record id="res_city_tw_172" model="res.city">
+            <field name="zipcode">555</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_NTS"/>
+            <field name="name">魚池鄉</field>
+        </record>
+        <record id="res_city_tw_173" model="res.city">
+            <field name="zipcode">556</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_NTS"/>
+            <field name="name">信義鄉</field>
+        </record>
+        <record id="res_city_tw_174" model="res.city">
+            <field name="zipcode">557</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_NTS"/>
+            <field name="name">竹山鎮</field>
+        </record>
+        <record id="res_city_tw_175" model="res.city">
+            <field name="zipcode">558</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_NTS"/>
+            <field name="name">鹿谷鄉</field>
+        </record>
+        <record id="res_city_tw_176" model="res.city">
+            <field name="zipcode">600</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_JIC"/>
+            <field name="name">東區</field>
+        </record>
+        <record id="res_city_tw_177" model="res.city">
+            <field name="zipcode">602</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_JIS"/>
+            <field name="name">番路鄉</field>
+        </record>
+        <record id="res_city_tw_178" model="res.city">
+            <field name="zipcode">603</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_JIS"/>
+            <field name="name">梅山鄉</field>
+        </record>
+        <record id="res_city_tw_179" model="res.city">
+            <field name="zipcode">604</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_JIS"/>
+            <field name="name">竹崎鄉</field>
+        </record>
+        <record id="res_city_tw_180" model="res.city">
+            <field name="zipcode">605</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_JIS"/>
+            <field name="name">阿里山鄉</field>
+        </record>
+        <record id="res_city_tw_181" model="res.city">
+            <field name="zipcode">606</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_JIS"/>
+            <field name="name">中埔鄉</field>
+        </record>
+        <record id="res_city_tw_182" model="res.city">
+            <field name="zipcode">607</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_JIS"/>
+            <field name="name">大埔鄉</field>
+        </record>
+        <record id="res_city_tw_183" model="res.city">
+            <field name="zipcode">608</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_JIS"/>
+            <field name="name">水上鄉</field>
+        </record>
+        <record id="res_city_tw_184" model="res.city">
+            <field name="zipcode">611</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_JIS"/>
+            <field name="name">鹿草鄉</field>
+        </record>
+        <record id="res_city_tw_185" model="res.city">
+            <field name="zipcode">612</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_JIS"/>
+            <field name="name">太保市</field>
+        </record>
+        <record id="res_city_tw_186" model="res.city">
+            <field name="zipcode">613</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_JIS"/>
+            <field name="name">朴子市</field>
+        </record>
+        <record id="res_city_tw_187" model="res.city">
+            <field name="zipcode">614</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_JIS"/>
+            <field name="name">東石鄉</field>
+        </record>
+        <record id="res_city_tw_188" model="res.city">
+            <field name="zipcode">615</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_JIS"/>
+            <field name="name">六腳鄉</field>
+        </record>
+        <record id="res_city_tw_189" model="res.city">
+            <field name="zipcode">616</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_JIS"/>
+            <field name="name">新港鄉</field>
+        </record>
+        <record id="res_city_tw_190" model="res.city">
+            <field name="zipcode">621</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_JIS"/>
+            <field name="name">民雄鄉</field>
+        </record>
+        <record id="res_city_tw_191" model="res.city">
+            <field name="zipcode">622</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_JIS"/>
+            <field name="name">大林鎮</field>
+        </record>
+        <record id="res_city_tw_192" model="res.city">
+            <field name="zipcode">623</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_JIS"/>
+            <field name="name">溪口鄉</field>
+        </record>
+        <record id="res_city_tw_193" model="res.city">
+            <field name="zipcode">624</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_JIS"/>
+            <field name="name">義竹鄉</field>
+        </record>
+        <record id="res_city_tw_194" model="res.city">
+            <field name="zipcode">625</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_JIS"/>
+            <field name="name">布袋鎮</field>
+        </record>
+        <record id="res_city_tw_195" model="res.city">
+            <field name="zipcode">630</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_ULS"/>
+            <field name="name">斗南鎮</field>
+        </record>
+        <record id="res_city_tw_196" model="res.city">
+            <field name="zipcode">631</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_ULS"/>
+            <field name="name">大埤鄉</field>
+        </record>
+        <record id="res_city_tw_197" model="res.city">
+            <field name="zipcode">632</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_ULS"/>
+            <field name="name">虎尾鎮</field>
+        </record>
+        <record id="res_city_tw_198" model="res.city">
+            <field name="zipcode">633</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_ULS"/>
+            <field name="name">土庫鎮</field>
+        </record>
+        <record id="res_city_tw_199" model="res.city">
+            <field name="zipcode">634</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_ULS"/>
+            <field name="name">褒忠鄉</field>
+        </record>
+        <record id="res_city_tw_200" model="res.city">
+            <field name="zipcode">635</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_ULS"/>
+            <field name="name">東勢鄉</field>
+        </record>
+        <record id="res_city_tw_201" model="res.city">
+            <field name="zipcode">636</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_ULS"/>
+            <field name="name">臺西鄉</field>
+        </record>
+        <record id="res_city_tw_202" model="res.city">
+            <field name="zipcode">637</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_ULS"/>
+            <field name="name">崙背鄉</field>
+        </record>
+        <record id="res_city_tw_203" model="res.city">
+            <field name="zipcode">638</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_ULS"/>
+            <field name="name">麥寮鄉</field>
+        </record>
+        <record id="res_city_tw_204" model="res.city">
+            <field name="zipcode">640</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_ULS"/>
+            <field name="name">斗六市</field>
+        </record>
+        <record id="res_city_tw_205" model="res.city">
+            <field name="zipcode">643</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_ULS"/>
+            <field name="name">林內鄉</field>
+        </record>
+        <record id="res_city_tw_206" model="res.city">
+            <field name="zipcode">646</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_ULS"/>
+            <field name="name">古坑鄉</field>
+        </record>
+        <record id="res_city_tw_207" model="res.city">
+            <field name="zipcode">647</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_ULS"/>
+            <field name="name">莿桐鄉</field>
+        </record>
+        <record id="res_city_tw_208" model="res.city">
+            <field name="zipcode">648</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_ULS"/>
+            <field name="name">西螺鎮</field>
+        </record>
+        <record id="res_city_tw_209" model="res.city">
+            <field name="zipcode">649</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_ULS"/>
+            <field name="name">二崙鄉</field>
+        </record>
+        <record id="res_city_tw_210" model="res.city">
+            <field name="zipcode">651</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_ULS"/>
+            <field name="name">北港鎮</field>
+        </record>
+        <record id="res_city_tw_211" model="res.city">
+            <field name="zipcode">652</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_ULS"/>
+            <field name="name">水林鄉</field>
+        </record>
+        <record id="res_city_tw_212" model="res.city">
+            <field name="zipcode">653</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_ULS"/>
+            <field name="name">口湖鄉</field>
+        </record>
+        <record id="res_city_tw_213" model="res.city">
+            <field name="zipcode">654</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_ULS"/>
+            <field name="name">四湖鄉</field>
+        </record>
+        <record id="res_city_tw_214" model="res.city">
+            <field name="zipcode">655</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_ULS"/>
+            <field name="name">元長鄉</field>
+        </record>
+        <record id="res_city_tw_215" model="res.city">
+            <field name="zipcode">700</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_TNC"/>
+            <field name="name">中西區</field>
+        </record>
+        <record id="res_city_tw_216" model="res.city">
+            <field name="zipcode">701</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_TNC"/>
+            <field name="name">東區</field>
+        </record>
+        <record id="res_city_tw_217" model="res.city">
+            <field name="zipcode">702</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_TNC"/>
+            <field name="name">南區</field>
+        </record>
+        <record id="res_city_tw_218" model="res.city">
+            <field name="zipcode">704</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_TNC"/>
+            <field name="name">北區</field>
+        </record>
+        <record id="res_city_tw_219" model="res.city">
+            <field name="zipcode">708</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_TNC"/>
+            <field name="name">安平區</field>
+        </record>
+        <record id="res_city_tw_220" model="res.city">
+            <field name="zipcode">709</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_TNC"/>
+            <field name="name">安南區</field>
+        </record>
+        <record id="res_city_tw_221" model="res.city">
+            <field name="zipcode">710</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_TNC"/>
+            <field name="name">永康區</field>
+        </record>
+        <record id="res_city_tw_222" model="res.city">
+            <field name="zipcode">711</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_TNC"/>
+            <field name="name">歸仁區</field>
+        </record>
+        <record id="res_city_tw_223" model="res.city">
+            <field name="zipcode">712</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_TNC"/>
+            <field name="name">新化區</field>
+        </record>
+        <record id="res_city_tw_224" model="res.city">
+            <field name="zipcode">713</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_TNC"/>
+            <field name="name">左鎮區</field>
+        </record>
+        <record id="res_city_tw_225" model="res.city">
+            <field name="zipcode">714</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_TNC"/>
+            <field name="name">玉井區</field>
+        </record>
+        <record id="res_city_tw_226" model="res.city">
+            <field name="zipcode">715</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_TNC"/>
+            <field name="name">楠西區</field>
+        </record>
+        <record id="res_city_tw_227" model="res.city">
+            <field name="zipcode">716</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_TNC"/>
+            <field name="name">南化區</field>
+        </record>
+        <record id="res_city_tw_228" model="res.city">
+            <field name="zipcode">717</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_TNC"/>
+            <field name="name">仁德區</field>
+        </record>
+        <record id="res_city_tw_229" model="res.city">
+            <field name="zipcode">718</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_TNC"/>
+            <field name="name">關廟區</field>
+        </record>
+        <record id="res_city_tw_230" model="res.city">
+            <field name="zipcode">719</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_TNC"/>
+            <field name="name">龍崎區</field>
+        </record>
+        <record id="res_city_tw_231" model="res.city">
+            <field name="zipcode">720</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_TNC"/>
+            <field name="name">官田區</field>
+        </record>
+        <record id="res_city_tw_232" model="res.city">
+            <field name="zipcode">721</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_TNC"/>
+            <field name="name">麻豆區</field>
+        </record>
+        <record id="res_city_tw_233" model="res.city">
+            <field name="zipcode">722</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_TNC"/>
+            <field name="name">佳里區</field>
+        </record>
+        <record id="res_city_tw_234" model="res.city">
+            <field name="zipcode">723</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_TNC"/>
+            <field name="name">西港區</field>
+        </record>
+        <record id="res_city_tw_235" model="res.city">
+            <field name="zipcode">724</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_TNC"/>
+            <field name="name">七股區</field>
+        </record>
+        <record id="res_city_tw_236" model="res.city">
+            <field name="zipcode">725</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_TNC"/>
+            <field name="name">將軍區</field>
+        </record>
+        <record id="res_city_tw_237" model="res.city">
+            <field name="zipcode">726</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_TNC"/>
+            <field name="name">學甲區</field>
+        </record>
+        <record id="res_city_tw_238" model="res.city">
+            <field name="zipcode">727</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_TNC"/>
+            <field name="name">北門區</field>
+        </record>
+        <record id="res_city_tw_239" model="res.city">
+            <field name="zipcode">730</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_TNC"/>
+            <field name="name">新營區</field>
+        </record>
+        <record id="res_city_tw_240" model="res.city">
+            <field name="zipcode">731</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_TNC"/>
+            <field name="name">後壁區</field>
+        </record>
+        <record id="res_city_tw_241" model="res.city">
+            <field name="zipcode">732</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_TNC"/>
+            <field name="name">白河區</field>
+        </record>
+        <record id="res_city_tw_242" model="res.city">
+            <field name="zipcode">733</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_TNC"/>
+            <field name="name">東山區</field>
+        </record>
+        <record id="res_city_tw_243" model="res.city">
+            <field name="zipcode">734</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_TNC"/>
+            <field name="name">六甲區</field>
+        </record>
+        <record id="res_city_tw_244" model="res.city">
+            <field name="zipcode">735</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_TNC"/>
+            <field name="name">下營區</field>
+        </record>
+        <record id="res_city_tw_245" model="res.city">
+            <field name="zipcode">736</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_TNC"/>
+            <field name="name">柳營區</field>
+        </record>
+        <record id="res_city_tw_246" model="res.city">
+            <field name="zipcode">737</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_TNC"/>
+            <field name="name">鹽水區</field>
+        </record>
+        <record id="res_city_tw_247" model="res.city">
+            <field name="zipcode">741</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_TNC"/>
+            <field name="name">新市區</field>
+        </record>
+        <record id="res_city_tw_248" model="res.city">
+            <field name="zipcode">742</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_TNC"/>
+            <field name="name">大內區</field>
+        </record>
+        <record id="res_city_tw_249" model="res.city">
+            <field name="zipcode">743</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_TNC"/>
+            <field name="name">山上區</field>
+        </record>
+        <record id="res_city_tw_250" model="res.city">
+            <field name="zipcode">745</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_TNC"/>
+            <field name="name">安定區</field>
+        </record>
+        <record id="res_city_tw_251" model="res.city">
+            <field name="zipcode">800</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_KHC"/>
+            <field name="name">新興區</field>
+        </record>
+        <record id="res_city_tw_252" model="res.city">
+            <field name="zipcode">801</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_KHC"/>
+            <field name="name">前金區</field>
+        </record>
+        <record id="res_city_tw_253" model="res.city">
+            <field name="zipcode">802</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_KHC"/>
+            <field name="name">苓雅區</field>
+        </record>
+        <record id="res_city_tw_254" model="res.city">
+            <field name="zipcode">803</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_KHC"/>
+            <field name="name">鹽埕區</field>
+        </record>
+        <record id="res_city_tw_255" model="res.city">
+            <field name="zipcode">804</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_KHC"/>
+            <field name="name">鼓山區</field>
+        </record>
+        <record id="res_city_tw_256" model="res.city">
+            <field name="zipcode">805</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_KHC"/>
+            <field name="name">旗津區</field>
+        </record>
+        <record id="res_city_tw_257" model="res.city">
+            <field name="zipcode">806</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_KHC"/>
+            <field name="name">前鎮區</field>
+        </record>
+        <record id="res_city_tw_258" model="res.city">
+            <field name="zipcode">807</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_KHC"/>
+            <field name="name">三民區</field>
+        </record>
+        <record id="res_city_tw_259" model="res.city">
+            <field name="zipcode">811</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_KHC"/>
+            <field name="name">楠梓區</field>
+        </record>
+        <record id="res_city_tw_260" model="res.city">
+            <field name="zipcode">812</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_KHC"/>
+            <field name="name">小港區</field>
+        </record>
+        <record id="res_city_tw_261" model="res.city">
+            <field name="zipcode">813</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_KHC"/>
+            <field name="name">左營區</field>
+        </record>
+        <record id="res_city_tw_262" model="res.city">
+            <field name="zipcode">814</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_KHC"/>
+            <field name="name">仁武區</field>
+        </record>
+        <record id="res_city_tw_263" model="res.city">
+            <field name="zipcode">815</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_KHC"/>
+            <field name="name">大社區</field>
+        </record>
+        <record id="res_city_tw_264" model="res.city">
+            <field name="zipcode">817</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_KHC"/>
+            <field name="name">東沙群島</field>
+        </record>
+        <record id="res_city_tw_265" model="res.city">
+            <field name="zipcode">819</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_KHC"/>
+            <field name="name">南沙群島</field>
+        </record>
+        <record id="res_city_tw_266" model="res.city">
+            <field name="zipcode">820</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_KHC"/>
+            <field name="name">岡山區</field>
+        </record>
+        <record id="res_city_tw_267" model="res.city">
+            <field name="zipcode">821</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_KHC"/>
+            <field name="name">路竹區</field>
+        </record>
+        <record id="res_city_tw_268" model="res.city">
+            <field name="zipcode">822</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_KHC"/>
+            <field name="name">阿蓮區</field>
+        </record>
+        <record id="res_city_tw_269" model="res.city">
+            <field name="zipcode">823</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_KHC"/>
+            <field name="name">田寮區</field>
+        </record>
+        <record id="res_city_tw_270" model="res.city">
+            <field name="zipcode">824</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_KHC"/>
+            <field name="name">燕巢區</field>
+        </record>
+        <record id="res_city_tw_271" model="res.city">
+            <field name="zipcode">825</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_KHC"/>
+            <field name="name">橋頭區</field>
+        </record>
+        <record id="res_city_tw_272" model="res.city">
+            <field name="zipcode">826</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_KHC"/>
+            <field name="name">梓官區</field>
+        </record>
+        <record id="res_city_tw_273" model="res.city">
+            <field name="zipcode">827</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_KHC"/>
+            <field name="name">彌陀區</field>
+        </record>
+        <record id="res_city_tw_274" model="res.city">
+            <field name="zipcode">828</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_KHC"/>
+            <field name="name">永安區</field>
+        </record>
+        <record id="res_city_tw_275" model="res.city">
+            <field name="zipcode">829</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_KHC"/>
+            <field name="name">湖內區</field>
+        </record>
+        <record id="res_city_tw_276" model="res.city">
+            <field name="zipcode">830</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_KHC"/>
+            <field name="name">鳳山區</field>
+        </record>
+        <record id="res_city_tw_277" model="res.city">
+            <field name="zipcode">831</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_KHC"/>
+            <field name="name">大寮區</field>
+        </record>
+        <record id="res_city_tw_278" model="res.city">
+            <field name="zipcode">832</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_KHC"/>
+            <field name="name">林園區</field>
+        </record>
+        <record id="res_city_tw_279" model="res.city">
+            <field name="zipcode">833</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_KHC"/>
+            <field name="name">鳥松區</field>
+        </record>
+        <record id="res_city_tw_280" model="res.city">
+            <field name="zipcode">840</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_KHC"/>
+            <field name="name">大樹區</field>
+        </record>
+        <record id="res_city_tw_281" model="res.city">
+            <field name="zipcode">842</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_KHC"/>
+            <field name="name">旗山區</field>
+        </record>
+        <record id="res_city_tw_282" model="res.city">
+            <field name="zipcode">843</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_KHC"/>
+            <field name="name">美濃區</field>
+        </record>
+        <record id="res_city_tw_283" model="res.city">
+            <field name="zipcode">844</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_KHC"/>
+            <field name="name">六龜區</field>
+        </record>
+        <record id="res_city_tw_284" model="res.city">
+            <field name="zipcode">845</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_KHC"/>
+            <field name="name">內門區</field>
+        </record>
+        <record id="res_city_tw_285" model="res.city">
+            <field name="zipcode">846</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_KHC"/>
+            <field name="name">杉林區</field>
+        </record>
+        <record id="res_city_tw_286" model="res.city">
+            <field name="zipcode">847</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_KHC"/>
+            <field name="name">甲仙區</field>
+        </record>
+        <record id="res_city_tw_287" model="res.city">
+            <field name="zipcode">848</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_KHC"/>
+            <field name="name">桃源區</field>
+        </record>
+        <record id="res_city_tw_288" model="res.city">
+            <field name="zipcode">849</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_KHC"/>
+            <field name="name">那瑪夏區</field>
+        </record>
+        <record id="res_city_tw_289" model="res.city">
+            <field name="zipcode">851</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_KHC"/>
+            <field name="name">茂林區</field>
+        </record>
+        <record id="res_city_tw_290" model="res.city">
+            <field name="zipcode">852</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_KHC"/>
+            <field name="name">茄萣區</field>
+        </record>
+        <record id="res_city_tw_291" model="res.city">
+            <field name="zipcode">880</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_PHS"/>
+            <field name="name">馬公市</field>
+        </record>
+        <record id="res_city_tw_292" model="res.city">
+            <field name="zipcode">881</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_PHS"/>
+            <field name="name">西嶼鄉</field>
+        </record>
+        <record id="res_city_tw_293" model="res.city">
+            <field name="zipcode">882</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_PHS"/>
+            <field name="name">望安鄉</field>
+        </record>
+        <record id="res_city_tw_294" model="res.city">
+            <field name="zipcode">883</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_PHS"/>
+            <field name="name">七美鄉</field>
+        </record>
+        <record id="res_city_tw_295" model="res.city">
+            <field name="zipcode">884</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_PHS"/>
+            <field name="name">白沙鄉</field>
+        </record>
+        <record id="res_city_tw_296" model="res.city">
+            <field name="zipcode">885</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_PHS"/>
+            <field name="name">湖西鄉</field>
+        </record>
+        <record id="res_city_tw_297" model="res.city">
+            <field name="zipcode">890</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_KMS"/>
+            <field name="name">金沙鎮</field>
+        </record>
+        <record id="res_city_tw_298" model="res.city">
+            <field name="zipcode">891</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_KMS"/>
+            <field name="name">金湖鎮</field>
+        </record>
+        <record id="res_city_tw_299" model="res.city">
+            <field name="zipcode">892</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_KMS"/>
+            <field name="name">金寧鄉</field>
+        </record>
+        <record id="res_city_tw_300" model="res.city">
+            <field name="zipcode">893</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_KMS"/>
+            <field name="name">金城鎮</field>
+        </record>
+        <record id="res_city_tw_301" model="res.city">
+            <field name="zipcode">894</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_KMS"/>
+            <field name="name">烈嶼鄉</field>
+        </record>
+        <record id="res_city_tw_302" model="res.city">
+            <field name="zipcode">896</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_KMS"/>
+            <field name="name">烏坵鄉</field>
+        </record>
+        <record id="res_city_tw_303" model="res.city">
+            <field name="zipcode">900</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_PDS"/>
+            <field name="name">屏東市</field>
+        </record>
+        <record id="res_city_tw_304" model="res.city">
+            <field name="zipcode">901</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_PDS"/>
+            <field name="name">三地門鄉</field>
+        </record>
+        <record id="res_city_tw_305" model="res.city">
+            <field name="zipcode">902</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_PDS"/>
+            <field name="name">霧臺鄉</field>
+        </record>
+        <record id="res_city_tw_306" model="res.city">
+            <field name="zipcode">903</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_PDS"/>
+            <field name="name">瑪家鄉</field>
+        </record>
+        <record id="res_city_tw_307" model="res.city">
+            <field name="zipcode">904</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_PDS"/>
+            <field name="name">九如鄉</field>
+        </record>
+        <record id="res_city_tw_308" model="res.city">
+            <field name="zipcode">905</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_PDS"/>
+            <field name="name">里港鄉</field>
+        </record>
+        <record id="res_city_tw_309" model="res.city">
+            <field name="zipcode">906</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_PDS"/>
+            <field name="name">高樹鄉</field>
+        </record>
+        <record id="res_city_tw_310" model="res.city">
+            <field name="zipcode">907</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_PDS"/>
+            <field name="name">鹽埔鄉</field>
+        </record>
+        <record id="res_city_tw_311" model="res.city">
+            <field name="zipcode">908</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_PDS"/>
+            <field name="name">長治鄉</field>
+        </record>
+        <record id="res_city_tw_312" model="res.city">
+            <field name="zipcode">909</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_PDS"/>
+            <field name="name">麟洛鄉</field>
+        </record>
+        <record id="res_city_tw_313" model="res.city">
+            <field name="zipcode">911</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_PDS"/>
+            <field name="name">竹田鄉</field>
+        </record>
+        <record id="res_city_tw_314" model="res.city">
+            <field name="zipcode">912</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_PDS"/>
+            <field name="name">內埔鄉</field>
+        </record>
+        <record id="res_city_tw_315" model="res.city">
+            <field name="zipcode">913</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_PDS"/>
+            <field name="name">萬丹鄉</field>
+        </record>
+        <record id="res_city_tw_316" model="res.city">
+            <field name="zipcode">920</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_PDS"/>
+            <field name="name">潮州鎮</field>
+        </record>
+        <record id="res_city_tw_317" model="res.city">
+            <field name="zipcode">921</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_PDS"/>
+            <field name="name">泰武鄉</field>
+        </record>
+        <record id="res_city_tw_318" model="res.city">
+            <field name="zipcode">922</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_PDS"/>
+            <field name="name">來義鄉</field>
+        </record>
+        <record id="res_city_tw_319" model="res.city">
+            <field name="zipcode">923</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_PDS"/>
+            <field name="name">萬巒鄉</field>
+        </record>
+        <record id="res_city_tw_320" model="res.city">
+            <field name="zipcode">924</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_PDS"/>
+            <field name="name">崁頂鄉</field>
+        </record>
+        <record id="res_city_tw_321" model="res.city">
+            <field name="zipcode">925</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_PDS"/>
+            <field name="name">新埤鄉</field>
+        </record>
+        <record id="res_city_tw_322" model="res.city">
+            <field name="zipcode">926</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_PDS"/>
+            <field name="name">南州鄉</field>
+        </record>
+        <record id="res_city_tw_323" model="res.city">
+            <field name="zipcode">927</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_PDS"/>
+            <field name="name">林邊鄉</field>
+        </record>
+        <record id="res_city_tw_324" model="res.city">
+            <field name="zipcode">928</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_PDS"/>
+            <field name="name">東港鎮</field>
+        </record>
+        <record id="res_city_tw_325" model="res.city">
+            <field name="zipcode">929</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_PDS"/>
+            <field name="name">琉球鄉</field>
+        </record>
+        <record id="res_city_tw_326" model="res.city">
+            <field name="zipcode">931</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_PDS"/>
+            <field name="name">佳冬鄉</field>
+        </record>
+        <record id="res_city_tw_327" model="res.city">
+            <field name="zipcode">932</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_PDS"/>
+            <field name="name">新園鄉</field>
+        </record>
+        <record id="res_city_tw_328" model="res.city">
+            <field name="zipcode">940</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_PDS"/>
+            <field name="name">枋寮鄉</field>
+        </record>
+        <record id="res_city_tw_329" model="res.city">
+            <field name="zipcode">941</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_PDS"/>
+            <field name="name">枋山鄉</field>
+        </record>
+        <record id="res_city_tw_330" model="res.city">
+            <field name="zipcode">942</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_PDS"/>
+            <field name="name">春日鄉</field>
+        </record>
+        <record id="res_city_tw_331" model="res.city">
+            <field name="zipcode">943</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_PDS"/>
+            <field name="name">獅子鄉</field>
+        </record>
+        <record id="res_city_tw_332" model="res.city">
+            <field name="zipcode">944</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_PDS"/>
+            <field name="name">車城鄉</field>
+        </record>
+        <record id="res_city_tw_333" model="res.city">
+            <field name="zipcode">945</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_PDS"/>
+            <field name="name">牡丹鄉</field>
+        </record>
+        <record id="res_city_tw_334" model="res.city">
+            <field name="zipcode">946</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_PDS"/>
+            <field name="name">恆春鎮</field>
+        </record>
+        <record id="res_city_tw_335" model="res.city">
+            <field name="zipcode">947</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_PDS"/>
+            <field name="name">滿州鄉</field>
+        </record>
+        <record id="res_city_tw_336" model="res.city">
+            <field name="zipcode">950</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_TDS"/>
+            <field name="name">臺東市</field>
+        </record>
+        <record id="res_city_tw_337" model="res.city">
+            <field name="zipcode">951</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_TDS"/>
+            <field name="name">綠島鄉</field>
+        </record>
+        <record id="res_city_tw_338" model="res.city">
+            <field name="zipcode">952</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_TDS"/>
+            <field name="name">蘭嶼鄉</field>
+        </record>
+        <record id="res_city_tw_339" model="res.city">
+            <field name="zipcode">953</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_TDS"/>
+            <field name="name">延平鄉</field>
+        </record>
+        <record id="res_city_tw_340" model="res.city">
+            <field name="zipcode">954</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_TDS"/>
+            <field name="name">卑南鄉</field>
+        </record>
+        <record id="res_city_tw_341" model="res.city">
+            <field name="zipcode">955</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_TDS"/>
+            <field name="name">鹿野鄉</field>
+        </record>
+        <record id="res_city_tw_342" model="res.city">
+            <field name="zipcode">956</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_TDS"/>
+            <field name="name">關山鎮</field>
+        </record>
+        <record id="res_city_tw_343" model="res.city">
+            <field name="zipcode">957</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_TDS"/>
+            <field name="name">海端鄉</field>
+        </record>
+        <record id="res_city_tw_344" model="res.city">
+            <field name="zipcode">958</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_TDS"/>
+            <field name="name">池上鄉</field>
+        </record>
+        <record id="res_city_tw_345" model="res.city">
+            <field name="zipcode">959</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_TDS"/>
+            <field name="name">東河鄉</field>
+        </record>
+        <record id="res_city_tw_346" model="res.city">
+            <field name="zipcode">961</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_TDS"/>
+            <field name="name">成功鎮</field>
+        </record>
+        <record id="res_city_tw_347" model="res.city">
+            <field name="zipcode">962</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_TDS"/>
+            <field name="name">長濱鄉</field>
+        </record>
+        <record id="res_city_tw_348" model="res.city">
+            <field name="zipcode">963</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_TDS"/>
+            <field name="name">太麻里鄉</field>
+        </record>
+        <record id="res_city_tw_349" model="res.city">
+            <field name="zipcode">964</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_TDS"/>
+            <field name="name">金峰鄉</field>
+        </record>
+        <record id="res_city_tw_350" model="res.city">
+            <field name="zipcode">965</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_TDS"/>
+            <field name="name">大武鄉</field>
+        </record>
+        <record id="res_city_tw_351" model="res.city">
+            <field name="zipcode">966</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_TDS"/>
+            <field name="name">達仁鄉</field>
+        </record>
+        <record id="res_city_tw_352" model="res.city">
+            <field name="zipcode">970</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_HLS"/>
+            <field name="name">花蓮市</field>
+        </record>
+        <record id="res_city_tw_353" model="res.city">
+            <field name="zipcode">971</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_HLS"/>
+            <field name="name">新城鄉</field>
+        </record>
+        <record id="res_city_tw_354" model="res.city">
+            <field name="zipcode">972</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_HLS"/>
+            <field name="name">秀林鄉</field>
+        </record>
+        <record id="res_city_tw_355" model="res.city">
+            <field name="zipcode">973</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_HLS"/>
+            <field name="name">吉安鄉</field>
+        </record>
+        <record id="res_city_tw_356" model="res.city">
+            <field name="zipcode">974</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_HLS"/>
+            <field name="name">壽豐鄉</field>
+        </record>
+        <record id="res_city_tw_357" model="res.city">
+            <field name="zipcode">975</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_HLS"/>
+            <field name="name">鳳林鎮</field>
+        </record>
+        <record id="res_city_tw_358" model="res.city">
+            <field name="zipcode">976</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_HLS"/>
+            <field name="name">光復鄉</field>
+        </record>
+        <record id="res_city_tw_359" model="res.city">
+            <field name="zipcode">977</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_HLS"/>
+            <field name="name">豐濱鄉</field>
+        </record>
+        <record id="res_city_tw_360" model="res.city">
+            <field name="zipcode">978</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_HLS"/>
+            <field name="name">瑞穗鄉</field>
+        </record>
+        <record id="res_city_tw_361" model="res.city">
+            <field name="zipcode">979</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_HLS"/>
+            <field name="name">萬榮鄉</field>
+        </record>
+        <record id="res_city_tw_362" model="res.city">
+            <field name="zipcode">981</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_HLS"/>
+            <field name="name">玉里鎮</field>
+        </record>
+        <record id="res_city_tw_363" model="res.city">
+            <field name="zipcode">982</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_HLS"/>
+            <field name="name">卓溪鄉</field>
+        </record>
+        <record id="res_city_tw_364" model="res.city">
+            <field name="zipcode">983</field>
+            <field name="country_id" ref="base.tw"/>
+            <field name="state_id" ref="base_location_tw.state_HLS"/>
+            <field name="name">富里鄉</field>
+        </record>
+    </data>
+</odoo>
