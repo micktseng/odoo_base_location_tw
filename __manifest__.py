@@ -11,7 +11,8 @@
     'license': "AGPL-3",
     'data': [
         'data/res_country_state_data.xml',
-        'data/res_better_zip.xml'],
+        'data/res_city.xml',
+        'data/res_city_zip.xml'],
     'installable': True,
     'auto_install': False,
 }
